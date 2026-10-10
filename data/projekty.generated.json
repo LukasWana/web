@@ -148,11 +148,6 @@
    "url": "https://github.com/LukasWana/kolodej-dashboard"
   },
   {
-   "nazev": "00-jidelnicek--android2024",
-   "jazyk": "Vue",
-   "posledni": "2025-08-29"
-  },
-  {
    "nazev": "OpenAI",
    "jazyk": "JavaScript",
    "posledni": "2024-11-02"
@@ -307,11 +302,25 @@
    "posledni": "2025-05-16"
   },
   {
-   "nazev": "e-jidelnicek ios Vue 2025",
-   "popis": "e-Jídelníček pro iOS: NodeJS aplikace pro pohodlné objednávání jídel",
+   "nazev": "e-Jídelníček",
+   "popis": "Aplikace pro pohodlné objednávání jídel pro iOS a Android (Vue, NodeJS) s uživatelskou příručkou",
    "jazyk": "JavaScript",
-   "posledni": "2025-02-09",
-   "web": "https://e-jidelnicek.cz/"
+   "posledni": "2025-08-29",
+   "web": "https://e-jidelnicek.cz/",
+   "odkazy": [
+    {
+     "nazev": "App Store",
+     "url": "https://apps.apple.com/us/app/e-j%C3%ADdeln%C3%AD%C4%8Dek/id1618220241"
+    },
+    {
+     "nazev": "Google Play",
+     "url": "https://play.google.com/store/apps/details?id=com.altisima.Jidelnicek.org"
+    },
+    {
+     "nazev": "Nápověda",
+     "url": "https://doc.e-jidelnicek.cz/"
+    }
+   ]
   },
   {
    "nazev": "GameDice",
@@ -319,13 +328,6 @@
    "jazyk": "CSS",
    "posledni": "2024-10-10",
    "url": "https://github.com/LukasWana/GameDice"
-  },
-  {
-   "nazev": "e-jidelnicek android Vue",
-   "popis": "e-Jídelníček pro Android: NodeJS aplikace pro pohodlné objednávání jídel",
-   "jazyk": "Vue",
-   "posledni": "2024-10-08",
-   "web": "https://e-jidelnicek.cz/"
   },
   {
    "nazev": "Contyco.cz quasar",
@@ -339,12 +341,6 @@
    "popis": "Web s prezentací pronájmu chaty Chata v pekle",
    "jazyk": "Vue",
    "posledni": "2022-06-08"
-  },
-  {
-   "nazev": "e-jidelnicek doc2022",
-   "popis": "Uživatelská příručka e-Jídelníčku: registrace, účet a objednávání jídel na webu i v mobilu",
-   "jazyk": "JavaScript",
-   "posledni": "2022-05-03"
   },
   {
    "nazev": "Sunset-web",
