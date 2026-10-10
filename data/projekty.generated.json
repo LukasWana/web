@@ -18,7 +18,7 @@
     0,
     312,
     477,
-    232
+    238
    ]
   },
   {
@@ -40,44 +40,6 @@
     160,
     112,
     58
-   ]
-  },
-  {
-   "nazev": "Domácí server",
-   "popis": "Vlastní služby na domácím serveru: knihy, hudba, videa, cloud, hledání",
-   "jazyk": "Python",
-   "posledni": "2026-10-09",
-   "dni_prace": 37,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    85,
-    199,
-    160,
-    95,
-    148,
-    71,
-    426
-   ],
-   "stitky": [
-    "bookshelf",
-    "dotfiles-claude",
-    "eagle-galerie",
-    "hledani",
-    "invidious",
-    "jellyfin",
-    "nextcloud",
-    "pwa-ui",
-    "server",
-    "stav",
-    "trezor",
-    "videoyou",
-    "vzhled",
-    "webshare-bridge",
-    "zvuk"
    ]
   },
   {
@@ -167,6 +129,7 @@
   },
   {
    "nazev": "NakupUX",
+   "popis": "Doplněk do Chrome, který zpřehlední a zpříjemní nákup v e-shopu Fichema",
    "jazyk": "TypeScript",
    "posledni": "2026-08-19",
    "dni_prace": 1,
@@ -359,6 +322,54 @@
    "nazev": "Sunset-web",
    "jazyk": "Vue",
    "posledni": "2021-04-29"
+  }
+ ],
+ "samostatne": [
+  {
+   "nazev": "Domácí server",
+   "popis": "Vlastní aplikace do telefonu (PWA), které běží na mém domácím serveru",
+   "posledni": "2026-10-09",
+   "dni_prace": 37,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    85,
+    199,
+    160,
+    95,
+    148,
+    71,
+    426
+   ],
+   "aplikace": [
+    {
+     "nazev": "Knihy",
+     "popis": "E-knihy a audioknihy: hledání, stažení do knihovny a čtení v telefonu"
+    },
+    {
+     "nazev": "Obrázky a fotky",
+     "popis": "Galerie inspirací a fotek z knihovny Eagle, synchronizovaná na server"
+    },
+    {
+     "nazev": "Videa",
+     "popis": "YouTube a vlastní videa a seriály ze serveru v jedné aplikaci"
+    },
+    {
+     "nazev": "Hudba a slovo",
+     "popis": "Hledání a stažení hudby i mluveného slova, rozpoznání skladby a tempa"
+    },
+    {
+     "nazev": "Server monitor",
+     "popis": "Hlídač serveru: stav služeb, disků a záloh, grafy paměti a zátěže"
+    },
+    {
+     "nazev": "Vzhled UI",
+     "popis": "Jedno nastavení tématu, písma a rozložení pro všechny moje aplikace"
+    }
+   ]
   }
  ],
  "aktualizovano": "2026-10-10"
