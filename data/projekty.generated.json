@@ -1,0 +1,365 @@
+{
+ "aktivni": [
+  {
+   "nazev": "EmailRator",
+   "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
+   "jazyk": "Python",
+   "posledni": "2026-10-10",
+   "dni_prace": 18,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    312,
+    477,
+    232
+   ]
+  },
+  {
+   "nazev": "WanGP pipeline",
+   "popis": "Lokální výroba obrázků, videa a řeči na jedné grafické kartě",
+   "jazyk": "JavaScript",
+   "posledni": "2026-10-10",
+   "dni_prace": 37,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    24,
+    101,
+    80,
+    67,
+    167,
+    160,
+    112,
+    58
+   ]
+  },
+  {
+   "nazev": "Domácí server",
+   "popis": "Vlastní služby na domácím serveru: knihy, hudba, videa, cloud, hledání",
+   "jazyk": "Python",
+   "posledni": "2026-10-09",
+   "dni_prace": 37,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    85,
+    199,
+    160,
+    95,
+    148,
+    71,
+    426
+   ],
+   "stitky": [
+    "bookshelf",
+    "dotfiles-claude",
+    "eagle-galerie",
+    "hledani",
+    "invidious",
+    "jellyfin",
+    "nextcloud",
+    "pwa-ui",
+    "server",
+    "stav",
+    "trezor",
+    "videoyou",
+    "vzhled",
+    "webshare-bridge",
+    "zvuk"
+   ]
+  },
+  {
+   "nazev": "Dýchání",
+   "popis": "Webová aplikace pro řízené dýchání",
+   "jazyk": "JavaScript",
+   "posledni": "2026-10-09",
+   "dni_prace": 4,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6,
+    7,
+    21
+   ]
+  },
+  {
+   "nazev": "whisper-sk-transcriber",
+   "popis": "Lokální přepis porad a rozlišení mluvčích (slovenština, čeština)",
+   "jazyk": "Python",
+   "posledni": "2026-10-07",
+   "dni_prace": 15,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    79,
+    10,
+    11,
+    1,
+    14,
+    0,
+    62
+   ]
+  },
+  {
+   "nazev": "Rodokmen",
+   "popis": "Rodokmen rodiny v Gramps Web na domácím serveru",
+   "jazyk": "Python",
+   "posledni": "2026-10-05",
+   "dni_prace": 3,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    24,
+    1
+   ]
+  },
+  {
+   "nazev": "emailrator-info",
+   "popis": "Úvodní stránka a zásady ochrany soukromí EmailRatoru",
+   "jazyk": "HTML",
+   "posledni": "2026-10-04",
+   "dni_prace": 1,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+   ],
+   "url": "https://github.com/LukasWana/emailrator-info"
+  },
+  {
+   "nazev": "NakupUX",
+   "jazyk": "TypeScript",
+   "posledni": "2026-08-19",
+   "dni_prace": 1,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    23,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "nazev": "meditation-app",
+   "popis": "Meditační aplikace v Reactu (předchůdce Dýchání)",
+   "jazyk": "JavaScript",
+   "posledni": "2026-08-05",
+   "dni_prace": 3,
+   "tydny": [
+    0,
+    0,
+    18,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "url": "https://github.com/LukasWana/meditation-app"
+  }
+ ],
+ "archiv": [
+  {
+   "nazev": "ACRS",
+   "jazyk": "Python",
+   "posledni": "2026-05-04"
+  },
+  {
+   "nazev": "ad-radar-daily",
+   "jazyk": "HTML",
+   "posledni": "2026-05-01",
+   "url": "https://github.com/LukasWana/ad-radar-daily"
+  },
+  {
+   "nazev": "Haluzator-stable",
+   "jazyk": "TypeScript",
+   "posledni": "2026-04-23",
+   "url": "https://github.com/LukasWana/Haluzator-stable"
+  },
+  {
+   "nazev": "Haluzator.eu",
+   "jazyk": "JavaScript",
+   "posledni": "2026-04-23",
+   "url": "https://github.com/LukasWana/Haluzator.eu"
+  },
+  {
+   "nazev": "ad-radar",
+   "jazyk": "HTML",
+   "posledni": "2026-04-15",
+   "url": "https://github.com/LukasWana/ad-radar"
+  },
+  {
+   "nazev": "test-openclaw-pages",
+   "jazyk": "HTML",
+   "posledni": "2026-04-12",
+   "url": "https://github.com/LukasWana/test-openclaw-pages"
+  },
+  {
+   "nazev": "kolodej-dashboard",
+   "jazyk": "JavaScript",
+   "posledni": "2026-03-29",
+   "url": "https://github.com/LukasWana/kolodej-dashboard"
+  },
+  {
+   "nazev": "Desktop-Voice-Assistant",
+   "jazyk": "Python",
+   "posledni": "2026-03-21"
+  },
+  {
+   "nazev": "TTS-cesky-test",
+   "jazyk": "Python",
+   "posledni": "2026-01-08",
+   "url": "https://github.com/LukasWana/TTS-cesky-test"
+  },
+  {
+   "nazev": "ZvukStetce.cz",
+   "jazyk": "HTML",
+   "posledni": "2025-11-10",
+   "url": "https://github.com/LukasWana/ZvukStetce.cz"
+  },
+  {
+   "nazev": "VJshader",
+   "jazyk": "TypeScript",
+   "posledni": "2025-10-15"
+  },
+  {
+   "nazev": "patern-paint",
+   "jazyk": "TypeScript",
+   "posledni": "2025-09-19"
+  },
+  {
+   "nazev": "00-jidelnicek--android2024",
+   "jazyk": "Vue",
+   "posledni": "2025-08-29"
+  },
+  {
+   "nazev": "Hlasovy_Asistent",
+   "posledni": "2025-05-16"
+  },
+  {
+   "nazev": "e-jidelnicek-ios-2025",
+   "jazyk": "JavaScript",
+   "posledni": "2025-02-09"
+  },
+  {
+   "nazev": "OpenAI",
+   "jazyk": "JavaScript",
+   "posledni": "2024-11-02"
+  },
+  {
+   "nazev": "GameDice",
+   "jazyk": "CSS",
+   "posledni": "2024-10-10",
+   "url": "https://github.com/LukasWana/GameDice"
+  },
+  {
+   "nazev": "00-jidelnicek--android",
+   "jazyk": "Vue",
+   "posledni": "2024-10-08"
+  },
+  {
+   "nazev": "stable-diffusion-export",
+   "jazyk": "CSS",
+   "posledni": "2022-12-12",
+   "url": "https://github.com/LukasWana/stable-diffusion-export"
+  },
+  {
+   "nazev": "contyco-cz-quasar",
+   "jazyk": "Vue",
+   "posledni": "2022-09-08",
+   "url": "https://github.com/LukasWana/contyco-cz-quasar"
+  },
+  {
+   "nazev": "quasar-camera-example-app",
+   "jazyk": "JavaScript",
+   "posledni": "2022-09-05",
+   "url": "https://github.com/LukasWana/quasar-camera-example-app"
+  },
+  {
+   "nazev": "separato-app-v1",
+   "jazyk": "JavaScript",
+   "posledni": "2022-08-19"
+  },
+  {
+   "nazev": "separato-app-v2",
+   "jazyk": "JavaScript",
+   "posledni": "2022-08-19"
+  },
+  {
+   "nazev": "chatavpekle",
+   "jazyk": "Vue",
+   "posledni": "2022-06-08"
+  },
+  {
+   "nazev": "padeparty.cz",
+   "jazyk": "JavaScript",
+   "posledni": "2022-05-18"
+  },
+  {
+   "nazev": "docs",
+   "jazyk": "JavaScript",
+   "posledni": "2022-05-03"
+  },
+  {
+   "nazev": "e-jidelnicek-doc2022",
+   "jazyk": "JavaScript",
+   "posledni": "2022-05-03"
+  },
+  {
+   "nazev": "Sunset-web",
+   "jazyk": "Vue",
+   "posledni": "2021-04-29"
+  }
+ ],
+ "aktualizovano": "2026-10-10"
+}
