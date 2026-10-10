@@ -22,6 +22,27 @@
    ]
   },
   {
+   "nazev": "Rodokmen",
+   "popis": "Rodokmen rodiny v Gramps Web na domácím serveru",
+   "jazyk": "Python",
+   "posledni": "2026-10-10",
+   "dni_prace": 4,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    24,
+    2
+   ]
+  },
+  {
    "nazev": "WanGP pipeline",
    "popis": "Lokální výroba obrázků, videa a řeči na jedné grafické kartě",
    "jazyk": "JavaScript",
@@ -61,27 +82,6 @@
     14,
     0,
     62
-   ]
-  },
-  {
-   "nazev": "Rodokmen",
-   "popis": "Rodokmen rodiny v Gramps Web na domácím serveru",
-   "jazyk": "Python",
-   "posledni": "2026-10-05",
-   "dni_prace": 3,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    24,
-    1
    ]
   },
   {
@@ -203,7 +203,7 @@
     95,
     148,
     71,
-    501
+    511
    ],
    "aplikace": [
     {
