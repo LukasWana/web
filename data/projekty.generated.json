@@ -203,7 +203,7 @@
     95,
     148,
     71,
-    520
+    522
    ],
    "aplikace": [
     {
@@ -215,8 +215,8 @@
      "popis": "Galerie inspirací a fotek z knihovny Eagle, synchronizovaná na server"
     },
     {
-     "nazev": "Videa",
-     "popis": "YouTube a vlastní videa a seriály ze serveru v jedné aplikaci"
+     "nazev": "Jednotné přihlášení",
+     "popis": "Jedno přihlášení otiskem prstu pro všechny moje aplikace, funguje i bez internetu"
     },
     {
      "nazev": "Hudba a slovo",
