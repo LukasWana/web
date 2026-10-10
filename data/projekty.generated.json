@@ -18,7 +18,7 @@
     0,
     312,
     477,
-    238
+    241
    ]
   },
   {
@@ -40,27 +40,6 @@
     160,
     112,
     58
-   ]
-  },
-  {
-   "nazev": "Dýchání",
-   "popis": "Webová aplikace pro řízené dýchání",
-   "jazyk": "JavaScript",
-   "posledni": "2026-10-09",
-   "dni_prace": 4,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    6,
-    7,
-    21
    ]
   },
   {
@@ -106,28 +85,6 @@
    ]
   },
   {
-   "nazev": "emailrator-info",
-   "popis": "Úvodní stránka a zásady ochrany soukromí EmailRatoru",
-   "jazyk": "HTML",
-   "posledni": "2026-10-04",
-   "dni_prace": 1,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2,
-    0
-   ],
-   "url": "https://github.com/LukasWana/emailrator-info"
-  },
-  {
    "nazev": "NakupUX",
    "popis": "Doplněk do Chrome, který zpřehlední a zpříjemní nákup v e-shopu Fichema",
    "jazyk": "TypeScript",
@@ -149,8 +106,8 @@
    ]
   },
   {
-   "nazev": "meditation-app",
-   "popis": "Meditační aplikace v Reactu (předchůdce Dýchání)",
+   "nazev": "Meditácie",
+   "popis": "Mluvená meditace s afirmacemi na míru, hudba k relaxaci a dýchací cvičení",
    "jazyk": "JavaScript",
    "posledni": "2026-08-05",
    "dni_prace": 3,
@@ -173,21 +130,10 @@
  ],
  "archiv": [
   {
-   "nazev": "ACRS",
-   "jazyk": "Python",
-   "posledni": "2026-05-04"
-  },
-  {
    "nazev": "ad-radar-daily",
    "jazyk": "HTML",
    "posledni": "2026-05-01",
    "url": "https://github.com/LukasWana/ad-radar-daily"
-  },
-  {
-   "nazev": "Haluzator-stable",
-   "jazyk": "TypeScript",
-   "posledni": "2026-04-23",
-   "url": "https://github.com/LukasWana/Haluzator-stable"
   },
   {
    "nazev": "Haluzator.eu",
@@ -196,49 +142,10 @@
    "url": "https://github.com/LukasWana/Haluzator.eu"
   },
   {
-   "nazev": "ad-radar",
-   "jazyk": "HTML",
-   "posledni": "2026-04-15",
-   "url": "https://github.com/LukasWana/ad-radar"
-  },
-  {
-   "nazev": "test-openclaw-pages",
-   "jazyk": "HTML",
-   "posledni": "2026-04-12",
-   "url": "https://github.com/LukasWana/test-openclaw-pages"
-  },
-  {
    "nazev": "kolodej-dashboard",
    "jazyk": "JavaScript",
    "posledni": "2026-03-29",
    "url": "https://github.com/LukasWana/kolodej-dashboard"
-  },
-  {
-   "nazev": "Desktop-Voice-Assistant",
-   "jazyk": "Python",
-   "posledni": "2026-03-21"
-  },
-  {
-   "nazev": "TTS-cesky-test",
-   "jazyk": "Python",
-   "posledni": "2026-01-08",
-   "url": "https://github.com/LukasWana/TTS-cesky-test"
-  },
-  {
-   "nazev": "ZvukStetce.cz",
-   "jazyk": "HTML",
-   "posledni": "2025-11-10",
-   "url": "https://github.com/LukasWana/ZvukStetce.cz"
-  },
-  {
-   "nazev": "VJshader",
-   "jazyk": "TypeScript",
-   "posledni": "2025-10-15"
-  },
-  {
-   "nazev": "patern-paint",
-   "jazyk": "TypeScript",
-   "posledni": "2025-09-19"
   },
   {
    "nazev": "00-jidelnicek--android2024",
@@ -246,41 +153,15 @@
    "posledni": "2025-08-29"
   },
   {
-   "nazev": "Hlasovy_Asistent",
-   "posledni": "2025-05-16"
-  },
-  {
-   "nazev": "e-jidelnicek-ios-2025",
-   "jazyk": "JavaScript",
-   "posledni": "2025-02-09"
-  },
-  {
    "nazev": "OpenAI",
    "jazyk": "JavaScript",
    "posledni": "2024-11-02"
-  },
-  {
-   "nazev": "GameDice",
-   "jazyk": "CSS",
-   "posledni": "2024-10-10",
-   "url": "https://github.com/LukasWana/GameDice"
-  },
-  {
-   "nazev": "00-jidelnicek--android",
-   "jazyk": "Vue",
-   "posledni": "2024-10-08"
   },
   {
    "nazev": "stable-diffusion-export",
    "jazyk": "CSS",
    "posledni": "2022-12-12",
    "url": "https://github.com/LukasWana/stable-diffusion-export"
-  },
-  {
-   "nazev": "contyco-cz-quasar",
-   "jazyk": "Vue",
-   "posledni": "2022-09-08",
-   "url": "https://github.com/LukasWana/contyco-cz-quasar"
   },
   {
    "nazev": "quasar-camera-example-app",
@@ -299,11 +180,6 @@
    "posledni": "2022-08-19"
   },
   {
-   "nazev": "chatavpekle",
-   "jazyk": "Vue",
-   "posledni": "2022-06-08"
-  },
-  {
    "nazev": "padeparty.cz",
    "jazyk": "JavaScript",
    "posledni": "2022-05-18"
@@ -312,24 +188,14 @@
    "nazev": "docs",
    "jazyk": "JavaScript",
    "posledni": "2022-05-03"
-  },
-  {
-   "nazev": "e-jidelnicek-doc2022",
-   "jazyk": "JavaScript",
-   "posledni": "2022-05-03"
-  },
-  {
-   "nazev": "Sunset-web",
-   "jazyk": "Vue",
-   "posledni": "2021-04-29"
   }
  ],
  "samostatne": [
   {
    "nazev": "Domácí server",
    "popis": "Vlastní aplikace do telefonu (PWA), které běží na mém domácím serveru",
-   "posledni": "2026-10-09",
-   "dni_prace": 37,
+   "posledni": "2026-10-10",
+   "dni_prace": 38,
    "tydny": [
     0,
     0,
@@ -342,7 +208,7 @@
     95,
     148,
     71,
-    426
+    439
    ],
    "aplikace": [
     {
@@ -370,6 +236,122 @@
      "popis": "Jedno nastavení tématu, písma a rozložení pro všechny moje aplikace"
     }
    ]
+  }
+ ],
+ "starsi": [
+  {
+   "nazev": "ACRS",
+   "popis": "AI generátor reklamních bannerů: rozbor podkladů značky a návrhy pro sociální sítě",
+   "jazyk": "Python",
+   "posledni": "2026-05-04"
+  },
+  {
+   "nazev": "Haluzator VJ Shader",
+   "popis": "VJ aplikace pro živé projekce: přes 150 shaderů, vlastní fotky a videa, efekty v reálném čase a sekvencer",
+   "jazyk": "TypeScript",
+   "posledni": "2026-04-23",
+   "url": "https://github.com/LukasWana/Haluzator-stable"
+  },
+  {
+   "nazev": "Ad-radar",
+   "popis": "Denní výběr nejlepších reklamních bannerů ze světových přehlídek a ranní souhrn do Telegramu",
+   "jazyk": "HTML",
+   "posledni": "2026-04-15",
+   "url": "https://github.com/LukasWana/ad-radar",
+   "web": "https://lukaswana.github.io/ad-radar/"
+  },
+  {
+   "nazev": "Openclaw",
+   "popis": "Testovací web publikovaný přes osobního AI asistenta OpenClaw",
+   "jazyk": "HTML",
+   "posledni": "2026-04-12",
+   "url": "https://github.com/LukasWana/test-openclaw-pages",
+   "web": "https://lukaswana.github.io/test-openclaw-pages/"
+  },
+  {
+   "nazev": "Desktop Voice Assistant",
+   "popis": "Hlasový asistent pro počítač s lokálním jazykovým modelem a zvukovými efekty",
+   "jazyk": "Python",
+   "posledni": "2026-03-21"
+  },
+  {
+   "nazev": "TTS-cesky-test",
+   "popis": "Offline převod českého textu na řeč a klonování hlasu (XTTS-v2)",
+   "jazyk": "Python",
+   "posledni": "2026-01-08",
+   "url": "https://github.com/LukasWana/TTS-cesky-test"
+  },
+  {
+   "nazev": "ZvukStetce.cz",
+   "popis": "Web a obchod s ručně psanou japonskou kaligrafií: galerie, prodej a zakázky na objednávku",
+   "jazyk": "HTML",
+   "posledni": "2025-11-10",
+   "url": "https://github.com/LukasWana/ZvukStetce.cz",
+   "web": "https://zvukstetce.cz/"
+  },
+  {
+   "nazev": "VJshader",
+   "popis": "Předchůdce Haluzátoru: animace v reálném čase ze shaderů, obrázků, videí, 3D a HTML",
+   "jazyk": "TypeScript",
+   "posledni": "2025-10-15"
+  },
+  {
+   "nazev": "Patern paint",
+   "popis": "Kreslení mandal na Android tabletu s knihovnou vzorových štětců",
+   "jazyk": "TypeScript",
+   "posledni": "2025-09-19"
+  },
+  {
+   "nazev": "Hlasovy_Asistent",
+   "popis": "Český hlasový asistent v Pythonu: rozpoznání řeči, hlasové příkazy a odpověď syntetickým hlasem",
+   "posledni": "2025-05-16"
+  },
+  {
+   "nazev": "e-jidelnicek ios Vue 2025",
+   "popis": "e-Jídelníček pro iOS: NodeJS aplikace pro pohodlné objednávání jídel",
+   "jazyk": "JavaScript",
+   "posledni": "2025-02-09",
+   "web": "https://e-jidelnicek.cz/"
+  },
+  {
+   "nazev": "GameDice",
+   "popis": "Webová hra v kostky pro dva hráče: házej, drž body a dosáhni cílového skóre jako první",
+   "jazyk": "CSS",
+   "posledni": "2024-10-10",
+   "url": "https://github.com/LukasWana/GameDice"
+  },
+  {
+   "nazev": "e-jidelnicek android Vue",
+   "popis": "e-Jídelníček pro Android: NodeJS aplikace pro pohodlné objednávání jídel",
+   "jazyk": "Vue",
+   "posledni": "2024-10-08",
+   "web": "https://e-jidelnicek.cz/"
+  },
+  {
+   "nazev": "Contyco.cz quasar",
+   "popis": "Web firmy Contyco.cz, českého dodavatele softwaru",
+   "jazyk": "Vue",
+   "posledni": "2022-09-08",
+   "url": "https://github.com/LukasWana/contyco-cz-quasar"
+  },
+  {
+   "nazev": "Chatavpekle.cz",
+   "popis": "Web s prezentací pronájmu chaty Chata v pekle",
+   "jazyk": "Vue",
+   "posledni": "2022-06-08"
+  },
+  {
+   "nazev": "e-jidelnicek doc2022",
+   "popis": "Uživatelská příručka e-Jídelníčku: registrace, účet a objednávání jídel na webu i v mobilu",
+   "jazyk": "JavaScript",
+   "posledni": "2022-05-03"
+  },
+  {
+   "nazev": "Sunset-web",
+   "popis": "Web apartmánu Sunset Apartment s nabídkou pobytu u moře",
+   "jazyk": "Vue",
+   "posledni": "2021-04-29",
+   "web": "https://sunset-apartment.com/"
   }
  ],
  "aktualizovano": "2026-10-10"
