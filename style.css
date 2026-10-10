@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Arial', sans-serif;
+    font-family: 'Inter Tight', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
     background-color: #ffffff;
     color: #000000;
     line-height: 1.6;
@@ -35,81 +35,50 @@ body {
 }
 
 .subtitle {
-    font-size: 18px;
+    font-size: 22px;
     color: #333;
-    margin-bottom: 20px;
+    margin-bottom: 14px;
     font-weight: 300;
 }
 
-.divider {
-    width: 100%;
-    height: 1px;
-    background-color: #e2e2e2;
-    margin: 20px 0;
+.kontakt {
+    font-size: 16px;
+    color: #000;
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+    padding-bottom: 1px;
 }
 
-.tagline {
-    font-size: 14px;
-    letter-spacing: 6px;
-    text-transform: uppercase;
-    font-weight: 500;
-    margin-top: 20px;
+.kontakt:hover {
+    border-bottom-color: transparent;
 }
 
-/* Hero Image Sections */
-.hero-image {
-    width: 100%;
-    height: 350px;
-    margin: 50px 0;
-    position: relative;
-    background-image: url('W-ilustration-banner.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+/* Banner: jeden tah štětcem, žádný rámeček */
+.enso-banner {
     display: flex;
     align-items: center;
     justify-content: center;
-    overflow: hidden;
+    gap: 48px;
+    margin: 56px 0 80px;
 }
 
-.hero-image::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: rgba(0, 0, 0, 0.3);
-    z-index: 1;
+.enso {
+    width: 300px;
+    max-width: 70vw;
+    height: auto;
 }
 
-.glitter-overlay {
-    position: relative;
-    z-index: 2;
-    text-align: center;
-    color: #ffffff;
-    text-shadow:
-        0 0 10px rgba(0, 0, 0, 0.8),
-        0 0 20px rgba(0, 0, 0, 0.6),
-        0 0 30px rgba(255, 255, 255, 0.4),
-        0 0 40px rgba(255, 255, 255, 0.2);
-    filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.3));
+.enso-text h2 {
+    font-size: 44px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+    margin-bottom: 8px;
 }
 
-.hero-text {
-    font-size: 56px;
-    font-weight: 100;
-    margin-bottom: 15px;
-    text-transform: uppercase;
-    letter-spacing: 6px;
-    line-height: 1.2;
-}
-
-.hero-subtext {
-    font-size: 20px;
-    font-weight: 200;
-    letter-spacing: 3px;
-    text-transform: uppercase;
+.enso-text p {
+    font-size: 18px;
+    color: #555;
 }
 
 /* Skills Section */
@@ -213,13 +182,20 @@ body {
 
 .section-title {
     font-size: 32px;
-    font-weight: 700;
+    font-weight: 600;
+    letter-spacing: -0.01em;
     text-align: center;
-    margin-bottom: 60px;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    border-bottom: 2px solid #000;
-    padding-bottom: 20px;
+    margin-bottom: 48px;
+}
+
+/* Podtah stejným štětcem jako ensō (img/tah.svg z tools/enso.py) místo černé čáry */
+.section-title::after {
+    content: '';
+    display: block;
+    width: 120px;
+    height: 12px;
+    margin: 10px auto 0;
+    background: url('img/tah.svg') center / contain no-repeat;
 }
 
 /* Featured Project Section */
@@ -423,25 +399,27 @@ body {
     transform: scale(1.15);
 }
 
-/* Bottom Hero */
-.bottom-hero {
-    margin-top: 60px;
+/* Motto v patičce */
+.motto {
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    margin: 24px 0 40px;
+}
+
+.motto::before {
+    content: '';
+    display: block;
+    width: 72px;
+    height: 8px;
+    margin: 0 auto 14px;
+    background: url('img/tah.svg') center / contain no-repeat;
 }
 
 /* Responsive */
 @media (max-width: 768px) {
     .main-title {
         font-size: 42px;
-    }
-
-    .hero-text {
-        font-size: 28px;
-        letter-spacing: 3px;
-    }
-
-    .hero-subtext {
-        font-size: 14px;
-        letter-spacing: 2px;
     }
 
     .skills-section,
@@ -462,15 +440,25 @@ body {
 
     .section-title {
         font-size: 24px;
-        letter-spacing: 2px;
     }
 
     .products-grid {
         grid-template-columns: 1fr;
     }
 
-    .hero-image {
-        height: 250px;
+    .enso-banner {
+        flex-direction: column;
+        gap: 24px;
+        text-align: center;
+        margin: 40px 0 56px;
+    }
+
+    .enso {
+        width: 220px;
+    }
+
+    .enso-text h2 {
+        font-size: 32px;
     }
 
     .social-icons {
@@ -494,18 +482,19 @@ body {
     gap: 30px;
 }
 
+/* Karta = světlá teplá plocha s oblými rohy, žádný rámeček (varianta B, rozhodnutí 2026-10-10) */
 .projekty-karta {
-    border: 1px solid #000;
     padding: 25px;
-    background-color: #fff;
+    background-color: #f6f5f2;
+    border-radius: 16px;
     display: flex;
     flex-direction: column;
     gap: 12px;
-    transition: box-shadow 0.3s ease;
+    transition: background-color 0.3s ease;
 }
 
 .projekty-karta:hover {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    background-color: #efede8;
 }
 
 /* Karta se živým webem: celá plocha je odkaz (roztažený přes kartu), ↗ na GitHub zůstává nad ním */
@@ -517,6 +506,7 @@ body {
     position: absolute;
     inset: 0;
     z-index: 1;
+    border-radius: inherit; /* fokus z klávesnice kopíruje oblé rohy karty */
 }
 
 .projekty-web:focus-visible {
@@ -594,8 +584,7 @@ body {
 
 .projekty-karta footer {
     margin-top: auto;
-    border-top: 1px solid #e2e2e2;
-    padding-top: 12px;
+    padding-top: 4px;
 }
 
 .projekty-odkaz {
@@ -628,11 +617,6 @@ body {
     gap: 20px 30px;
 }
 
-.projekty-aplikace li {
-    border-top: 1px solid #e2e2e2;
-    padding-top: 12px;
-}
-
 .projekty-aplikace h4 {
     font-size: 16px;
     font-weight: 700;
@@ -647,8 +631,6 @@ body {
 
 .projekty-archiv {
     margin-top: 40px;
-    border-top: 1px solid #e2e2e2;
-    padding-top: 20px;
 }
 
 .projekty-archiv summary {
@@ -656,14 +638,14 @@ body {
     font-weight: 600;
 }
 
-/* Starší aplikace v rozklikávací sekci: nejvýš 3 na řádek (víc místa pro popis), šedý rámeček */
+/* Starší aplikace v rozklikávací sekci: nejvýš 3 na řádek (víc místa pro popis), světlejší plocha */
 .projekty-archiv .projekty-grid {
     margin-top: 20px;
     grid-template-columns: repeat(auto-fill, minmax(min(100%, max(340px, calc((100% - 60px) / 3))), 1fr));
 }
 
 .projekty-archiv .projekty-karta {
-    border-color: #c8c8c8;
+    background-color: #fafaf8;
 }
 
 .projekty-data-k {
