@@ -189,8 +189,8 @@
   {
    "nazev": "Domácí server",
    "popis": "Vlastní aplikace do telefonu (PWA), které běží na mém domácím serveru",
-   "posledni": "2026-10-10",
-   "dni_prace": 38,
+   "posledni": "2026-10-11",
+   "dni_prace": 39,
    "tydny": [
     0,
     0,
@@ -203,7 +203,7 @@
     95,
     148,
     71,
-    525
+    528
    ],
    "aplikace": [
     {
