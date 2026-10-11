@@ -1,6 +1,28 @@
 {
  "aktivni": [
   {
+   "nazev": "EmailRator",
+   "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
+   "jazyk": "Python",
+   "posledni": "2026-10-11",
+   "dni_prace": 19,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    312,
+    477,
+    256
+   ],
+   "barva": "fialova"
+  },
+  {
    "nazev": "Rodokmen",
    "popis": "Rodokmen rodiny v Gramps Web na domácím serveru",
    "jazyk": "Python",
@@ -18,31 +40,9 @@
     0,
     0,
     24,
-    4
+    5
    ],
    "barva": "tyrkys"
-  },
-  {
-   "nazev": "EmailRator",
-   "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
-   "jazyk": "Python",
-   "posledni": "2026-10-10",
-   "dni_prace": 18,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    312,
-    477,
-    253
-   ],
-   "barva": "fialova"
   },
   {
    "nazev": "WanGP pipeline",
@@ -209,7 +209,7 @@
     95,
     148,
     71,
-    533
+    538
    ],
    "aplikace": [
     {
@@ -356,5 +356,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-11T18:17Z"
+ "aktualizovano": "2026-10-11T20:17Z"
 }
