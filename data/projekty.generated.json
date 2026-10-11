@@ -19,7 +19,8 @@
     312,
     477,
     253
-   ]
+   ],
+   "barva": "fialova"
   },
   {
    "nazev": "Rodokmen",
@@ -40,7 +41,8 @@
     0,
     24,
     2
-   ]
+   ],
+   "barva": "tyrkys"
   },
   {
    "nazev": "WanGP pipeline",
@@ -61,7 +63,8 @@
     160,
     112,
     58
-   ]
+   ],
+   "barva": "zlata"
   },
   {
    "nazev": "whisper-sk-transcriber",
@@ -82,7 +85,8 @@
     14,
     0,
     62
-   ]
+   ],
+   "barva": "zelena"
   },
   {
    "nazev": "NakupUX",
@@ -103,7 +107,8 @@
     0,
     0,
     0
-   ]
+   ],
+   "barva": "malina"
   },
   {
    "nazev": "Meditácie",
@@ -125,7 +130,8 @@
     0,
     0
    ],
-   "url": "https://github.com/LukasWana/meditation-app"
+   "url": "https://github.com/LukasWana/meditation-app",
+   "barva": "azur"
   }
  ],
  "archiv": [
@@ -203,7 +209,7 @@
     95,
     148,
     71,
-    528
+    530
    ],
    "aplikace": [
     {
