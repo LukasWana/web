@@ -4,8 +4,8 @@
    "nazev": "EmailRator",
    "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
    "jazyk": "Python",
-   "posledni": "2026-10-11",
-   "dni_prace": 19,
+   "posledni": "2026-10-12",
+   "dni_prace": 20,
    "tydny": [
     0,
     0,
@@ -18,7 +18,7 @@
     312,
     477,
     264,
-    0
+    1
    ],
    "barva": "fialova"
   },
@@ -195,8 +195,8 @@
   {
    "nazev": "Domácí server",
    "popis": "Vlastní aplikace do telefonu (PWA), které běží na mém domácím serveru",
-   "posledni": "2026-10-11",
-   "dni_prace": 39,
+   "posledni": "2026-10-12",
+   "dni_prace": 40,
    "tydny": [
     0,
     0,
@@ -209,7 +209,7 @@
     148,
     71,
     541,
-    0
+    10
    ],
    "aplikace": [
     {
@@ -356,5 +356,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-12T01:17Z"
+ "aktualizovano": "2026-10-12T07:17Z"
 }
