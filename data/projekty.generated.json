@@ -195,8 +195,8 @@
   {
    "nazev": "Domácí server",
    "popis": "Vlastní aplikace do telefonu (PWA), které běží na mém domácím serveru",
-   "posledni": "2026-10-13",
-   "dni_prace": 41,
+   "posledni": "2026-10-14",
+   "dni_prace": 42,
    "tydny": [
     0,
     0,
@@ -209,7 +209,7 @@
     148,
     71,
     541,
-    100
+    105
    ],
    "aplikace": [
     {
@@ -356,5 +356,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-14T06:17Z"
+ "aktualizovano": "2026-10-14T12:17Z"
 }
