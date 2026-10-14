@@ -4,8 +4,8 @@
    "nazev": "Rodokmen",
    "popis": "Rodokmen rodiny v Gramps Web na domácím serveru",
    "jazyk": "Python",
-   "posledni": "2026-10-13",
-   "dni_prace": 6,
+   "posledni": "2026-10-14",
+   "dni_prace": 7,
    "tydny": [
     0,
     0,
@@ -18,7 +18,7 @@
     0,
     24,
     5,
-    5
+    7
    ],
    "barva": "tyrkys"
   },
@@ -356,5 +356,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-14T00:17Z"
+ "aktualizovano": "2026-10-14T05:17Z"
 }
