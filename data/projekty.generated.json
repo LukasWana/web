@@ -3,8 +3,8 @@
   {
    "nazev": "FMake",
    "jazyk": "Python",
-   "posledni": "2026-10-16",
-   "dni_prace": 1,
+   "posledni": "2026-10-17",
+   "dni_prace": 2,
    "tydny": [
     0,
     0,
@@ -17,9 +17,31 @@
     0,
     0,
     0,
-    24
+    26
    ],
    "barva": "modra"
+  },
+  {
+   "nazev": "Rodokmen",
+   "popis": "Rodokmen rodiny v Gramps Web na domácím serveru",
+   "jazyk": "Python",
+   "posledni": "2026-10-17",
+   "dni_prace": 8,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    24,
+    5,
+    15
+   ],
+   "barva": "tyrkys"
   },
   {
    "nazev": "EmailRator",
@@ -42,28 +64,6 @@
     30
    ],
    "barva": "fialova"
-  },
-  {
-   "nazev": "Rodokmen",
-   "popis": "Rodokmen rodiny v Gramps Web na domácím serveru",
-   "jazyk": "Python",
-   "posledni": "2026-10-14",
-   "dni_prace": 7,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    24,
-    5,
-    14
-   ],
-   "barva": "tyrkys"
   },
   {
    "nazev": "WanGP pipeline",
@@ -377,5 +377,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-17T00:17Z"
+ "aktualizovano": "2026-10-17T10:17Z"
 }
