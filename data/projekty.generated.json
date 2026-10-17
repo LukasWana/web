@@ -39,9 +39,31 @@
     0,
     24,
     5,
-    15
+    16
    ],
    "barva": "tyrkys"
+  },
+  {
+   "nazev": "whisper-sk-transcriber",
+   "popis": "Lokální přepis porad a rozlišení mluvčích (slovenština, čeština)",
+   "jazyk": "Python",
+   "posledni": "2026-10-17",
+   "dni_prace": 18,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    79,
+    10,
+    11,
+    1,
+    14,
+    0,
+    105,
+    25
+   ],
+   "barva": "zelena"
   },
   {
    "nazev": "EmailRator",
@@ -86,28 +108,6 @@
     0
    ],
    "barva": "zlata"
-  },
-  {
-   "nazev": "whisper-sk-transcriber",
-   "popis": "Lokální přepis porad a rozlišení mluvčích (slovenština, čeština)",
-   "jazyk": "Python",
-   "posledni": "2026-10-07",
-   "dni_prace": 15,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    79,
-    10,
-    11,
-    1,
-    14,
-    0,
-    62,
-    0
-   ],
-   "barva": "zelena"
   },
   {
    "nazev": "NakupUX",
@@ -377,5 +377,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-17T10:17Z"
+ "aktualizovano": "2026-10-17T11:17Z"
 }
