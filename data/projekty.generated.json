@@ -1,6 +1,27 @@
 {
  "aktivni": [
   {
+   "nazev": "chatterbox-server",
+   "jazyk": "Python",
+   "posledni": "2026-10-17",
+   "dni_prace": 1,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    24
+   ],
+   "barva": "modra"
+  },
+  {
    "nazev": "FMake",
    "jazyk": "Python",
    "posledni": "2026-10-17",
@@ -19,7 +40,7 @@
     0,
     26
    ],
-   "barva": "modra"
+   "barva": "purpur"
   },
   {
    "nazev": "Rodokmen",
@@ -377,5 +398,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-17T18:17Z"
+ "aktualizovano": "2026-10-17T19:17Z"
 }
