@@ -17,7 +17,7 @@
     0,
     0,
     0,
-    128
+    131
    ],
    "barva": "modra"
   },
@@ -251,7 +251,7 @@
     148,
     71,
     541,
-    244
+    258
    ],
    "aplikace": [
     {
@@ -398,5 +398,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-18T18:17Z"
+ "aktualizovano": "2026-10-18T19:17Z"
 }
