@@ -1,6 +1,27 @@
 {
  "aktivni": [
   {
+   "nazev": "FMake",
+   "jazyk": "Python",
+   "posledni": "2026-10-18",
+   "dni_prace": 3,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    35
+   ],
+   "barva": "modra"
+  },
+  {
    "nazev": "chatterbox-server",
    "jazyk": "Python",
    "posledni": "2026-10-17",
@@ -18,27 +39,6 @@
     0,
     0,
     24
-   ],
-   "barva": "modra"
-  },
-  {
-   "nazev": "FMake",
-   "jazyk": "Python",
-   "posledni": "2026-10-17",
-   "dni_prace": 2,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    29
    ],
    "barva": "purpur"
   },
@@ -398,5 +398,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-18T00:17Z"
+ "aktualizovano": "2026-10-18T06:17Z"
 }
