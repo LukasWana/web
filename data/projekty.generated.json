@@ -39,8 +39,30 @@
     0,
     0,
     151,
-    75
+    78
    ],
+   "barva": "azur"
+  },
+  {
+   "nazev": "Prelude",
+   "jazyk": "HTML",
+   "posledni": "2026-10-19",
+   "dni_prace": 1,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2
+   ],
+   "url": "https://github.com/LukasWana/Prelude",
    "barva": "modra"
   },
   {
@@ -151,32 +173,15 @@
     0
    ],
    "barva": "malina"
-  },
-  {
-   "nazev": "Meditácie",
-   "popis": "Mluvená meditace s afirmacemi na míru, hudba k relaxaci a dýchací cvičení",
-   "jazyk": "JavaScript",
-   "posledni": "2026-08-05",
-   "dni_prace": 3,
-   "tydny": [
-    18,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "url": "https://github.com/LukasWana/meditation-app",
-   "barva": "azur"
   }
  ],
  "archiv": [
+  {
+   "nazev": "Meditácie",
+   "jazyk": "JavaScript",
+   "posledni": "2026-08-05",
+   "url": "https://github.com/LukasWana/meditation-app"
+  },
   {
    "nazev": "ad-radar-daily",
    "jazyk": "HTML",
@@ -398,5 +403,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-19T19:17Z"
+ "aktualizovano": "2026-10-19T20:17Z"
 }
