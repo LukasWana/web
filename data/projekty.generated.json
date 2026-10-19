@@ -18,7 +18,7 @@
     477,
     264,
     30,
-    9
+    19
    ],
    "barva": "fialova"
   },
@@ -39,9 +39,31 @@
     0,
     0,
     151,
-    8
+    16
    ],
    "barva": "modra"
+  },
+  {
+   "nazev": "Rodokmen",
+   "popis": "Rodokmen rodiny v Gramps Web na domácím serveru",
+   "jazyk": "Python",
+   "posledni": "2026-10-19",
+   "dni_prace": 9,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    24,
+    5,
+    18,
+    1
+   ],
+   "barva": "tyrkys"
   },
   {
    "nazev": "chatterbox-server",
@@ -63,28 +85,6 @@
     0
    ],
    "barva": "purpur"
-  },
-  {
-   "nazev": "Rodokmen",
-   "popis": "Rodokmen rodiny v Gramps Web na domácím serveru",
-   "jazyk": "Python",
-   "posledni": "2026-10-17",
-   "dni_prace": 8,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    24,
-    5,
-    18,
-    0
-   ],
-   "barva": "tyrkys"
   },
   {
    "nazev": "whisper-sk-transcriber",
@@ -237,8 +237,8 @@
   {
    "nazev": "Domácí server",
    "popis": "Vlastní aplikace do telefonu (PWA), které běží na mém domácím serveru",
-   "posledni": "2026-10-18",
-   "dni_prace": 46,
+   "posledni": "2026-10-19",
+   "dni_prace": 47,
    "tydny": [
     0,
     0,
@@ -251,7 +251,7 @@
     71,
     541,
     260,
-    0
+    7
    ],
    "aplikace": [
     {
@@ -398,5 +398,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-19T09:17Z"
+ "aktualizovano": "2026-10-19T10:17Z"
 }
