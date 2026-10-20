@@ -39,7 +39,28 @@
     0,
     0,
     151,
-    98
+    101
+   ],
+   "barva": "malina"
+  },
+  {
+   "nazev": "preludecrm",
+   "jazyk": "Python",
+   "posledni": "2026-10-20",
+   "dni_prace": 1,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    8
    ],
    "barva": "azur"
   },
@@ -151,31 +172,14 @@
     0
    ],
    "barva": "zlata"
-  },
-  {
-   "nazev": "NakupUX",
-   "popis": "Doplněk do Chrome, který zpřehlední a zpříjemní nákup v e-shopu Fichema",
-   "jazyk": "TypeScript",
-   "posledni": "2026-08-19",
-   "dni_prace": 1,
-   "tydny": [
-    0,
-    0,
-    23,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "barva": "malina"
   }
  ],
  "archiv": [
+  {
+   "nazev": "NakupUX",
+   "jazyk": "TypeScript",
+   "posledni": "2026-08-19"
+  },
   {
    "nazev": "Meditácie",
    "jazyk": "JavaScript",
@@ -403,5 +407,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-20T12:17Z"
+ "aktualizovano": "2026-10-20T13:17Z"
 }
