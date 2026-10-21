@@ -39,13 +39,13 @@
     0,
     0,
     151,
-    156
+    161
    ],
    "barva": "malina"
   },
   {
    "nazev": "preludecrm",
-   "jazyk": "Python",
+   "jazyk": "TypeScript",
    "posledni": "2026-10-20",
    "dni_prace": 1,
    "tydny": [
@@ -60,7 +60,7 @@
     0,
     0,
     0,
-    84
+    92
    ],
    "barva": "azur"
   },
@@ -407,5 +407,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-20T22:17Z"
+ "aktualizovano": "2026-10-21T00:17Z"
 }
