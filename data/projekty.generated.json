@@ -1,6 +1,27 @@
 {
  "aktivni": [
   {
+   "nazev": "FMake",
+   "jazyk": "Python",
+   "posledni": "2026-10-21",
+   "dni_prace": 6,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    151,
+    164
+   ],
+   "barva": "malina"
+  },
+  {
    "nazev": "preludecrm",
    "jazyk": "TypeScript",
    "posledni": "2026-10-21",
@@ -17,9 +38,9 @@
     0,
     0,
     0,
-    102
+    115
    ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "EmailRator",
@@ -42,27 +63,6 @@
     45
    ],
    "barva": "fialova"
-  },
-  {
-   "nazev": "FMake",
-   "jazyk": "Python",
-   "posledni": "2026-10-20",
-   "dni_prace": 5,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    151,
-    161
-   ],
-   "barva": "azur"
   },
   {
    "nazev": "Rodokmen",
@@ -407,5 +407,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-21T06:17Z"
+ "aktualizovano": "2026-10-21T08:17Z"
 }
