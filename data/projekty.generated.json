@@ -41,7 +41,30 @@
     151,
     268
    ],
-   "barva": "malina"
+   "barva": "zlata"
+  },
+  {
+   "nazev": "Meditácie",
+   "popis": "Mluvená meditace s afirmacemi na míru, hudba k relaxaci a dýchací cvičení",
+   "jazyk": "JavaScript",
+   "posledni": "2026-10-23",
+   "dni_prace": 4,
+   "tydny": [
+    18,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    7
+   ],
+   "url": "https://github.com/LukasWana/meditation-app",
+   "barva": "azur"
   },
   {
    "nazev": "preludecrm",
@@ -60,9 +83,9 @@
     0,
     0,
     0,
-    368
+    373
    ],
-   "barva": "azur"
+   "barva": "malina"
   },
   {
    "nazev": "Rodokmen",
@@ -150,41 +173,18 @@
     0
    ],
    "barva": "zelena"
-  },
-  {
-   "nazev": "WanGP pipeline",
-   "popis": "Lokální výroba obrázků, videa a řeči na jedné grafické kartě",
-   "jazyk": "JavaScript",
-   "posledni": "2026-10-10",
-   "dni_prace": 37,
-   "tydny": [
-    0,
-    0,
-    24,
-    101,
-    80,
-    67,
-    167,
-    160,
-    112,
-    58,
-    0,
-    0
-   ],
-   "barva": "zlata"
   }
  ],
  "archiv": [
   {
+   "nazev": "WanGP pipeline",
+   "jazyk": "JavaScript",
+   "posledni": "2026-10-10"
+  },
+  {
    "nazev": "NakupUX",
    "jazyk": "TypeScript",
    "posledni": "2026-08-19"
-  },
-  {
-   "nazev": "Meditácie",
-   "jazyk": "JavaScript",
-   "posledni": "2026-08-05",
-   "url": "https://github.com/LukasWana/meditation-app"
   },
   {
    "nazev": "ad-radar-daily",
@@ -407,5 +407,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-23T18:17Z"
+ "aktualizovano": "2026-10-23T19:17Z"
 }
