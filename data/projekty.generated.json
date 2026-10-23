@@ -17,7 +17,7 @@
     0,
     0,
     151,
-    204
+    211
    ],
    "barva": "malina"
   },
@@ -38,7 +38,7 @@
     0,
     0,
     0,
-    305
+    327
    ],
    "barva": "azur"
   },
@@ -260,7 +260,7 @@
     71,
     541,
     260,
-    66
+    69
    ],
    "aplikace": [
     {
@@ -407,5 +407,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-23T08:17Z"
+ "aktualizovano": "2026-10-23T10:17Z"
 }
