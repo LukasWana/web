@@ -1,6 +1,27 @@
 {
  "aktivni": [
   {
+   "nazev": "FMake",
+   "jazyk": "Python",
+   "posledni": "2026-10-23",
+   "dni_prace": 8,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    151,
+    196
+   ],
+   "barva": "malina"
+  },
+  {
    "nazev": "preludecrm",
    "jazyk": "TypeScript",
    "posledni": "2026-10-23",
@@ -17,9 +38,9 @@
     0,
     0,
     0,
-    279
+    291
    ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "EmailRator",
@@ -42,27 +63,6 @@
     63
    ],
    "barva": "fialova"
-  },
-  {
-   "nazev": "FMake",
-   "jazyk": "Python",
-   "posledni": "2026-10-22",
-   "dni_prace": 7,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    151,
-    193
-   ],
-   "barva": "azur"
   },
   {
    "nazev": "Rodokmen",
@@ -246,8 +246,8 @@
   {
    "nazev": "Domácí server",
    "popis": "Vlastní aplikace do telefonu (PWA), které běží na mém domácím serveru",
-   "posledni": "2026-10-22",
-   "dni_prace": 49,
+   "posledni": "2026-10-23",
+   "dni_prace": 50,
    "tydny": [
     0,
     0,
@@ -260,7 +260,7 @@
     71,
     541,
     260,
-    56
+    59
    ],
    "aplikace": [
     {
@@ -407,5 +407,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-23T03:17Z"
+ "aktualizovano": "2026-10-23T06:17Z"
 }
