@@ -39,7 +39,7 @@
     0,
     151,
     320,
-    9
+    20
    ],
    "barva": "zlata"
   },
@@ -260,7 +260,7 @@
     541,
     260,
     120,
-    4
+    13
    ],
    "aplikace": [
     {
@@ -407,5 +407,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-26T17:17Z"
+ "aktualizovano": "2026-10-26T18:17Z"
 }
