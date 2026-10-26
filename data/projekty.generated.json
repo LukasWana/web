@@ -1,6 +1,28 @@
 {
  "aktivni": [
   {
+   "nazev": "EmailRator",
+   "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
+   "jazyk": "Python",
+   "posledni": "2026-10-26",
+   "dni_prace": 27,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    312,
+    477,
+    264,
+    30,
+    70,
+    1
+   ],
+   "barva": "fialova"
+  },
+  {
    "nazev": "FMake",
    "jazyk": "Python",
    "posledni": "2026-10-26",
@@ -38,7 +60,7 @@
     0,
     0,
     2,
-    5
+    8
    ],
    "url": "https://github.com/LukasWana/Prelude",
    "barva": "malina"
@@ -63,28 +85,6 @@
     61
    ],
    "barva": "modra"
-  },
-  {
-   "nazev": "EmailRator",
-   "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
-   "jazyk": "Python",
-   "posledni": "2026-10-24",
-   "dni_prace": 26,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    312,
-    477,
-    264,
-    30,
-    70,
-    0
-   ],
-   "barva": "fialova"
   },
   {
    "nazev": "whisper-sk-transcriber",
@@ -407,5 +407,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-26T15:17Z"
+ "aktualizovano": "2026-10-26T16:17Z"
 }
