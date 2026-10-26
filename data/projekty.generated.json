@@ -1,6 +1,27 @@
 {
  "aktivni": [
   {
+   "nazev": "FMake",
+   "jazyk": "Python",
+   "posledni": "2026-10-26",
+   "dni_prace": 11,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    151,
+    320,
+    4
+   ],
+   "barva": "zlata"
+  },
+  {
    "nazev": "preludecrm",
    "jazyk": "TypeScript",
    "posledni": "2026-10-26",
@@ -17,28 +38,7 @@
     0,
     0,
     670,
-    42
-   ],
-   "barva": "zlata"
-  },
-  {
-   "nazev": "FMake",
-   "jazyk": "Python",
-   "posledni": "2026-10-25",
-   "dni_prace": 10,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    151,
-    320,
-    0
+    46
    ],
    "barva": "malina"
   },
@@ -407,5 +407,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-26T11:17Z"
+ "aktualizovano": "2026-10-26T12:17Z"
 }
