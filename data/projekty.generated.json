@@ -17,9 +17,31 @@
     0,
     151,
     320,
-    4
+    7
    ],
    "barva": "zlata"
+  },
+  {
+   "nazev": "Prelude",
+   "jazyk": "HTML",
+   "posledni": "2026-10-26",
+   "dni_prace": 2,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    5
+   ],
+   "url": "https://github.com/LukasWana/Prelude",
+   "barva": "malina"
   },
   {
    "nazev": "preludecrm",
@@ -40,7 +62,7 @@
     670,
     61
    ],
-   "barva": "malina"
+   "barva": "modra"
   },
   {
    "nazev": "EmailRator",
@@ -130,28 +152,6 @@
     0
    ],
    "barva": "tyrkys"
-  },
-  {
-   "nazev": "Prelude",
-   "jazyk": "HTML",
-   "posledni": "2026-10-19",
-   "dni_prace": 1,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2,
-    0
-   ],
-   "url": "https://github.com/LukasWana/Prelude",
-   "barva": "modra"
   },
   {
    "nazev": "chatterbox-server",
@@ -407,5 +407,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-26T14:17Z"
+ "aktualizovano": "2026-10-26T15:17Z"
 }
