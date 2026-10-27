@@ -1,6 +1,28 @@
 {
  "aktivni": [
   {
+   "nazev": "Prelude",
+   "jazyk": "HTML",
+   "posledni": "2026-10-27",
+   "dni_prace": 3,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    9
+   ],
+   "url": "https://github.com/LukasWana/Prelude",
+   "barva": "zlata"
+  },
+  {
    "nazev": "EmailRator",
    "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
    "jazyk": "Python",
@@ -41,28 +63,6 @@
     320,
     23
    ],
-   "barva": "zlata"
-  },
-  {
-   "nazev": "Prelude",
-   "jazyk": "HTML",
-   "posledni": "2026-10-26",
-   "dni_prace": 2,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2,
-    8
-   ],
-   "url": "https://github.com/LukasWana/Prelude",
    "barva": "malina"
   },
   {
@@ -407,5 +407,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-27T00:17Z"
+ "aktualizovano": "2026-10-27T06:17Z"
 }
