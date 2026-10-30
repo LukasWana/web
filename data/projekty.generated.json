@@ -18,7 +18,7 @@
     264,
     30,
     70,
-    102
+    105
    ],
    "barva": "fialova"
   },
@@ -45,6 +45,7 @@
   },
   {
    "nazev": "PDFValidator",
+   "jazyk": "TypeScript",
    "posledni": "2026-10-30",
    "dni_prace": 1,
    "tydny": [
@@ -59,7 +60,7 @@
     0,
     0,
     0,
-    3
+    10
    ],
    "barva": "malina"
   },
@@ -411,5 +412,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-30T17:17Z"
+ "aktualizovano": "2026-10-30T18:17Z"
 }
