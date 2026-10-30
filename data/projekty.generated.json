@@ -45,7 +45,7 @@
   },
   {
    "nazev": "PDFValidator",
-   "jazyk": "TypeScript",
+   "jazyk": "Python",
    "posledni": "2026-10-30",
    "dni_prace": 1,
    "tydny": [
@@ -60,7 +60,7 @@
     0,
     0,
     0,
-    10
+    14
    ],
    "barva": "malina"
   },
@@ -412,5 +412,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-30T18:17Z"
+ "aktualizovano": "2026-10-30T19:17Z"
 }
