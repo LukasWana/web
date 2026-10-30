@@ -18,9 +18,30 @@
     264,
     30,
     70,
-    94
+    95
    ],
    "barva": "fialova"
+  },
+  {
+   "nazev": "FMake",
+   "jazyk": "Python",
+   "posledni": "2026-10-30",
+   "dni_prace": 12,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    151,
+    320,
+    32
+   ],
+   "barva": "zlata"
   },
   {
    "nazev": "Prelude",
@@ -42,27 +63,6 @@
     9
    ],
    "url": "https://github.com/LukasWana/Prelude",
-   "barva": "zlata"
-  },
-  {
-   "nazev": "FMake",
-   "jazyk": "Python",
-   "posledni": "2026-10-26",
-   "dni_prace": 11,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    151,
-    320,
-    23
-   ],
    "barva": "malina"
   },
   {
@@ -407,5 +407,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-30T11:17Z"
+ "aktualizovano": "2026-10-30T12:17Z"
 }
