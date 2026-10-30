@@ -18,7 +18,7 @@
     264,
     30,
     70,
-    95
+    101
    ],
    "barva": "fialova"
   },
@@ -44,6 +44,47 @@
    "barva": "zlata"
   },
   {
+   "nazev": "PDFValidator",
+   "posledni": "2026-10-30",
+   "dni_prace": 1,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3
+   ],
+   "barva": "malina"
+  },
+  {
+   "nazev": "preludecrm",
+   "jazyk": "TypeScript",
+   "posledni": "2026-10-30",
+   "dni_prace": 9,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    670,
+    64
+   ],
+   "barva": "modra"
+  },
+  {
    "nazev": "Prelude",
    "jazyk": "HTML",
    "posledni": "2026-10-27",
@@ -63,28 +104,7 @@
     9
    ],
    "url": "https://github.com/LukasWana/Prelude",
-   "barva": "malina"
-  },
-  {
-   "nazev": "preludecrm",
-   "jazyk": "TypeScript",
-   "posledni": "2026-10-26",
-   "dni_prace": 7,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    670,
-    61
-   ],
-   "barva": "modra"
+   "barva": "purpur"
   },
   {
    "nazev": "whisper-sk-transcriber",
@@ -152,30 +172,14 @@
     0
    ],
    "barva": "tyrkys"
-  },
-  {
-   "nazev": "chatterbox-server",
-   "jazyk": "Python",
-   "posledni": "2026-10-17",
-   "dni_prace": 1,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    24,
-    0,
-    0
-   ],
-   "barva": "purpur"
   }
  ],
  "archiv": [
+  {
+   "nazev": "chatterbox-server",
+   "jazyk": "Python",
+   "posledni": "2026-10-17"
+  },
   {
    "nazev": "WanGP pipeline",
    "jazyk": "JavaScript",
@@ -407,5 +411,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-30T12:17Z"
+ "aktualizovano": "2026-10-30T14:17Z"
 }
