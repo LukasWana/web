@@ -18,7 +18,7 @@
     264,
     30,
     70,
-    106
+    110
    ],
    "barva": "fialova"
   },
@@ -39,7 +39,7 @@
     0,
     151,
     320,
-    32
+    40
    ],
    "barva": "zlata"
   },
@@ -412,5 +412,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-30T20:17Z"
+ "aktualizovano": "2026-10-30T21:17Z"
 }
