@@ -18,35 +18,14 @@
     264,
     30,
     70,
-    113
+    115
    ],
    "barva": "fialova"
   },
   {
-   "nazev": "FMake",
-   "jazyk": "Python",
-   "posledni": "2026-10-30",
-   "dni_prace": 12,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    151,
-    320,
-    40
-   ],
-   "barva": "zlata"
-  },
-  {
-   "nazev": "PDFValidator",
-   "jazyk": "Python",
-   "posledni": "2026-10-30",
+   "nazev": "emailrator-formulare",
+   "jazyk": "HTML",
+   "posledni": "2026-10-31",
    "dni_prace": 1,
    "tydny": [
     0,
@@ -60,7 +39,50 @@
     0,
     0,
     0,
-    14
+    2
+   ],
+   "url": "https://github.com/LukasWana/emailrator-formulare",
+   "barva": "tyrkys"
+  },
+  {
+   "nazev": "FMake",
+   "jazyk": "Python",
+   "posledni": "2026-10-31",
+   "dni_prace": 13,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    151,
+    320,
+    49
+   ],
+   "barva": "zlata"
+  },
+  {
+   "nazev": "PDFValidator",
+   "jazyk": "Python",
+   "posledni": "2026-10-31",
+   "dni_prace": 2,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    33
    ],
    "barva": "malina"
   },
@@ -151,31 +173,14 @@
    ],
    "url": "https://github.com/LukasWana/meditation-app",
    "barva": "azur"
-  },
-  {
-   "nazev": "Rodokmen",
-   "popis": "Rodokmen rodiny v Gramps Web na domácím serveru",
-   "jazyk": "Python",
-   "posledni": "2026-10-20",
-   "dni_prace": 10,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    24,
-    5,
-    18,
-    15,
-    0
-   ],
-   "barva": "tyrkys"
   }
  ],
  "archiv": [
+  {
+   "nazev": "Rodokmen",
+   "jazyk": "Python",
+   "posledni": "2026-10-20"
+  },
   {
    "nazev": "chatterbox-server",
    "jazyk": "Python",
@@ -412,5 +417,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-10-31T09:17Z"
+ "aktualizovano": "2026-10-31T10:17Z"
 }
