@@ -18,9 +18,30 @@
     264,
     30,
     70,
-    120
+    121
    ],
    "barva": "fialova"
+  },
+  {
+   "nazev": "FMake",
+   "jazyk": "Python",
+   "posledni": "2026-11-01",
+   "dni_prace": 14,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    151,
+    320,
+    53
+   ],
+   "barva": "tyrkys"
   },
   {
    "nazev": "emailrator-formulare",
@@ -42,27 +63,6 @@
     2
    ],
    "url": "https://github.com/LukasWana/emailrator-formulare",
-   "barva": "tyrkys"
-  },
-  {
-   "nazev": "FMake",
-   "jazyk": "Python",
-   "posledni": "2026-10-31",
-   "dni_prace": 13,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    151,
-    320,
-    49
-   ],
    "barva": "zlata"
   },
   {
@@ -417,5 +417,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-01T07:17Z"
+ "aktualizovano": "2026-11-01T08:17Z"
 }
