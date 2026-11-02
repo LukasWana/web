@@ -18,7 +18,7 @@
     30,
     70,
     138,
-    33
+    49
    ],
    "barva": "fialova"
   },
@@ -39,7 +39,7 @@
     0,
     0,
     2,
-    9
+    16
    ],
    "url": "https://github.com/LukasWana/emailrator-formulare",
    "barva": "tyrkys"
@@ -61,7 +61,7 @@
     151,
     320,
     54,
-    28
+    36
    ],
    "barva": "zlata"
   },
@@ -125,7 +125,7 @@
     0,
     670,
     64,
-    29
+    36
    ],
    "barva": "modra"
   },
@@ -422,5 +422,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-02T20:17Z"
+ "aktualizovano": "2026-11-02T21:17Z"
 }
