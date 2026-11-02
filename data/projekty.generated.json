@@ -18,7 +18,7 @@
     30,
     70,
     138,
-    16
+    17
    ],
    "barva": "fialova"
   },
@@ -87,6 +87,27 @@
    "barva": "malina"
   },
   {
+   "nazev": "preludecrm",
+   "jazyk": "TypeScript",
+   "posledni": "2026-11-02",
+   "dni_prace": 10,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    670,
+    64,
+    6
+   ],
+   "barva": "azur"
+  },
+  {
    "nazev": "emailrator-formulare",
    "jazyk": "HTML",
    "posledni": "2026-10-31",
@@ -106,27 +127,6 @@
     0
    ],
    "url": "https://github.com/LukasWana/emailrator-formulare",
-   "barva": "azur"
-  },
-  {
-   "nazev": "preludecrm",
-   "jazyk": "TypeScript",
-   "posledni": "2026-10-30",
-   "dni_prace": 9,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    670,
-    64,
-    0
-   ],
    "barva": "modra"
   },
   {
@@ -422,5 +422,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-02T16:17Z"
+ "aktualizovano": "2026-11-02T17:17Z"
 }
