@@ -12,13 +12,13 @@
     0,
     0,
     0,
-    0,
     312,
     477,
     264,
     30,
     70,
-    138
+    138,
+    0
    ],
    "barva": "fialova"
   },
@@ -36,10 +36,10 @@
     0,
     0,
     0,
-    0,
     151,
     320,
-    54
+    54,
+    0
    ],
    "barva": "tyrkys"
   },
@@ -59,8 +59,8 @@
     0,
     0,
     0,
-    0,
-    2
+    2,
+    0
    ],
    "url": "https://github.com/LukasWana/emailrator-formulare",
    "barva": "zlata"
@@ -81,8 +81,8 @@
     0,
     0,
     0,
-    0,
-    33
+    33,
+    0
    ],
    "barva": "malina"
   },
@@ -101,9 +101,9 @@
     0,
     0,
     0,
-    0,
     670,
-    64
+    64,
+    0
    ],
    "barva": "modra"
   },
@@ -122,9 +122,9 @@
     0,
     0,
     0,
-    0,
     2,
-    9
+    9,
+    0
    ],
    "url": "https://github.com/LukasWana/Prelude",
    "barva": "purpur"
@@ -137,7 +137,6 @@
    "dni_prace": 20,
    "tydny": [
     0,
-    0,
     79,
     10,
     11,
@@ -147,6 +146,7 @@
     105,
     49,
     6,
+    0,
     0
    ],
    "barva": "zelena"
@@ -167,8 +167,8 @@
     0,
     0,
     0,
-    0,
     7,
+    0,
     0
    ],
    "url": "https://github.com/LukasWana/meditation-app",
@@ -260,7 +260,6 @@
    "dni_prace": 57,
    "tydny": [
     0,
-    0,
     85,
     199,
     160,
@@ -270,7 +269,8 @@
     541,
     260,
     129,
-    109
+    109,
+    0
    ],
    "aplikace": [
     {
@@ -417,5 +417,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-01T11:17Z"
+ "aktualizovano": "2026-11-02T00:17Z"
 }
