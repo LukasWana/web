@@ -18,9 +18,31 @@
     30,
     70,
     138,
-    30
+    33
    ],
    "barva": "fialova"
+  },
+  {
+   "nazev": "emailrator-formulare",
+   "jazyk": "HTML",
+   "posledni": "2026-11-02",
+   "dni_prace": 2,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    9
+   ],
+   "url": "https://github.com/LukasWana/emailrator-formulare",
+   "barva": "tyrkys"
   },
   {
    "nazev": "FMake",
@@ -39,9 +61,9 @@
     151,
     320,
     54,
-    17
+    28
    ],
-   "barva": "tyrkys"
+   "barva": "zlata"
   },
   {
    "nazev": "kolodej-date",
@@ -63,7 +85,7 @@
     2
    ],
    "url": "https://github.com/LukasWana/kolodej-date",
-   "barva": "zlata"
+   "barva": "malina"
   },
   {
    "nazev": "PDFValidator",
@@ -84,7 +106,7 @@
     71,
     26
    ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "preludecrm",
@@ -103,30 +125,8 @@
     0,
     670,
     64,
-    21
+    29
    ],
-   "barva": "azur"
-  },
-  {
-   "nazev": "emailrator-formulare",
-   "jazyk": "HTML",
-   "posledni": "2026-10-31",
-   "dni_prace": 1,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2,
-    0
-   ],
-   "url": "https://github.com/LukasWana/emailrator-formulare",
    "barva": "modra"
   },
   {
@@ -422,5 +422,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-02T19:17Z"
+ "aktualizovano": "2026-11-02T20:17Z"
 }
