@@ -39,7 +39,7 @@
     151,
     320,
     54,
-    8
+    9
    ],
    "barva": "tyrkys"
   },
@@ -60,7 +60,7 @@
     0,
     0,
     0,
-    1
+    2
    ],
    "url": "https://github.com/LukasWana/kolodej-date",
    "barva": "zlata"
@@ -275,7 +275,7 @@
     260,
     129,
     109,
-    12
+    14
    ],
    "aplikace": [
     {
@@ -422,5 +422,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-02T14:17Z"
+ "aktualizovano": "2026-11-02T15:17Z"
 }
