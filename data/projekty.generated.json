@@ -18,15 +18,15 @@
     30,
     70,
     138,
-    6
+    13
    ],
    "barva": "fialova"
   },
   {
    "nazev": "FMake",
    "jazyk": "Python",
-   "posledni": "2026-11-01",
-   "dni_prace": 14,
+   "posledni": "2026-11-02",
+   "dni_prace": 15,
    "tydny": [
     0,
     0,
@@ -39,9 +39,52 @@
     151,
     320,
     54,
-    0
+    8
    ],
    "barva": "tyrkys"
+  },
+  {
+   "nazev": "kolodej-date",
+   "jazyk": "HTML",
+   "posledni": "2026-11-02",
+   "dni_prace": 1,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "url": "https://github.com/LukasWana/kolodej-date",
+   "barva": "zlata"
+  },
+  {
+   "nazev": "PDFValidator",
+   "jazyk": "Python",
+   "posledni": "2026-11-02",
+   "dni_prace": 4,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    71,
+    26
+   ],
+   "barva": "malina"
   },
   {
    "nazev": "emailrator-formulare",
@@ -63,28 +106,7 @@
     0
    ],
    "url": "https://github.com/LukasWana/emailrator-formulare",
-   "barva": "zlata"
-  },
-  {
-   "nazev": "PDFValidator",
-   "jazyk": "Python",
-   "posledni": "2026-10-31",
-   "dni_prace": 2,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    33,
-    0
-   ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "preludecrm",
@@ -150,32 +172,15 @@
     0
    ],
    "barva": "zelena"
-  },
-  {
-   "nazev": "Meditácie",
-   "popis": "Mluvená meditace s afirmacemi na míru, hudba k relaxaci a dýchací cvičení",
-   "jazyk": "JavaScript",
-   "posledni": "2026-10-23",
-   "dni_prace": 1,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    7,
-    0,
-    0
-   ],
-   "url": "https://github.com/LukasWana/meditation-app",
-   "barva": "azur"
   }
  ],
  "archiv": [
+  {
+   "nazev": "Meditácie",
+   "jazyk": "JavaScript",
+   "posledni": "2026-10-23",
+   "url": "https://github.com/LukasWana/meditation-app"
+  },
   {
    "nazev": "Rodokmen",
    "jazyk": "Python",
@@ -270,7 +275,7 @@
     260,
     129,
     109,
-    11
+    12
    ],
    "aplikace": [
     {
@@ -417,5 +422,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-02T11:17Z"
+ "aktualizovano": "2026-11-02T14:17Z"
 }
