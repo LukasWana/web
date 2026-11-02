@@ -4,8 +4,8 @@
    "nazev": "EmailRator",
    "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
    "jazyk": "Python",
-   "posledni": "2026-11-01",
-   "dni_prace": 33,
+   "posledni": "2026-11-02",
+   "dni_prace": 34,
    "tydny": [
     0,
     0,
@@ -18,7 +18,7 @@
     30,
     70,
     138,
-    0
+    5
    ],
    "barva": "fialova"
   },
@@ -270,7 +270,7 @@
     260,
     129,
     109,
-    10
+    11
    ],
    "aplikace": [
     {
@@ -417,5 +417,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-02T09:17Z"
+ "aktualizovano": "2026-11-02T10:17Z"
 }
