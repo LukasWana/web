@@ -1,6 +1,27 @@
 {
  "aktivni": [
   {
+   "nazev": "FMake",
+   "jazyk": "Python",
+   "posledni": "2026-11-03",
+   "dni_prace": 16,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    151,
+    320,
+    54,
+    44
+   ],
+   "barva": "tyrkys"
+  },
+  {
    "nazev": "EmailRator",
    "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
    "jazyk": "Python",
@@ -42,27 +63,6 @@
     16
    ],
    "url": "https://github.com/LukasWana/emailrator-formulare",
-   "barva": "tyrkys"
-  },
-  {
-   "nazev": "FMake",
-   "jazyk": "Python",
-   "posledni": "2026-11-02",
-   "dni_prace": 15,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    151,
-    320,
-    54,
-    43
-   ],
    "barva": "zlata"
   },
   {
@@ -422,5 +422,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-03T00:17Z"
+ "aktualizovano": "2026-11-03T06:17Z"
 }
