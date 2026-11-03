@@ -18,7 +18,7 @@
     30,
     70,
     138,
-    79
+    86
    ],
    "barva": "fialova"
   },
@@ -39,7 +39,7 @@
     151,
     320,
     54,
-    96
+    101
    ],
    "barva": "tyrkys"
   },
@@ -60,7 +60,7 @@
     0,
     670,
     64,
-    75
+    77
    ],
    "barva": "zlata"
   },
@@ -422,5 +422,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-03T19:17Z"
+ "aktualizovano": "2026-11-03T20:17Z"
 }
