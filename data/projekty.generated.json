@@ -18,7 +18,7 @@
     30,
     70,
     138,
-    100
+    112
    ],
    "barva": "fialova"
   },
@@ -39,7 +39,7 @@
     151,
     320,
     54,
-    115
+    128
    ],
    "barva": "tyrkys"
   },
@@ -60,9 +60,30 @@
     1,
     16,
     0,
-    6
+    14
    ],
    "barva": "zlata"
+  },
+  {
+   "nazev": "PDFValidator",
+   "jazyk": "Python",
+   "posledni": "2026-11-04",
+   "dni_prace": 5,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    71,
+    46
+   ],
+   "barva": "zelena"
   },
   {
    "nazev": "preludecrm",
@@ -81,9 +102,9 @@
     0,
     670,
     64,
-    82
+    100
    ],
-   "barva": "zelena"
+   "barva": "malina"
   },
   {
    "nazev": "emailrator-formulare",
@@ -105,7 +126,7 @@
     16
    ],
    "url": "https://github.com/LukasWana/emailrator-formulare",
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "kolodej-date",
@@ -127,27 +148,6 @@
     2
    ],
    "url": "https://github.com/LukasWana/kolodej-date",
-   "barva": "azur"
-  },
-  {
-   "nazev": "PDFValidator",
-   "jazyk": "Python",
-   "posledni": "2026-11-02",
-   "dni_prace": 4,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    71,
-    26
-   ],
    "barva": "modra"
   },
   {
@@ -426,5 +426,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-04T09:17Z"
+ "aktualizovano": "2026-11-04T12:17Z"
 }
