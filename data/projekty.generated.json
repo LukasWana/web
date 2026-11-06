@@ -4,8 +4,8 @@
    "nazev": "EmailRator",
    "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
    "jazyk": "Python",
-   "posledni": "2026-11-05",
-   "dni_prace": 37,
+   "posledni": "2026-11-06",
+   "dni_prace": 38,
    "tydny": [
     0,
     0,
@@ -18,9 +18,31 @@
     30,
     70,
     138,
-    193
+    199
    ],
    "barva": "fialova"
+  },
+  {
+   "nazev": "emailrator-formulare",
+   "jazyk": "HTML",
+   "posledni": "2026-11-06",
+   "dni_prace": 4,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    19
+   ],
+   "url": "https://github.com/LukasWana/emailrator-formulare",
+   "barva": "tyrkys"
   },
   {
    "nazev": "GEmailRator",
@@ -41,7 +63,7 @@
     0,
     66
    ],
-   "barva": "tyrkys"
+   "barva": "zlata"
   },
   {
    "nazev": "preludecrm",
@@ -62,28 +84,6 @@
     64,
     107
    ],
-   "barva": "zlata"
-  },
-  {
-   "nazev": "emailrator-formulare",
-   "jazyk": "HTML",
-   "posledni": "2026-11-04",
-   "dni_prace": 3,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2,
-    18
-   ],
-   "url": "https://github.com/LukasWana/emailrator-formulare",
    "barva": "zelena"
   },
   {
@@ -426,5 +426,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-06T07:17Z"
+ "aktualizovano": "2026-11-06T09:17Z"
 }
