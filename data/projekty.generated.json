@@ -18,7 +18,7 @@
     30,
     70,
     138,
-    274
+    280
    ],
    "barva": "fialova"
   },
@@ -65,6 +65,27 @@
    "barva": "zlata"
   },
   {
+   "nazev": "preludecrm",
+   "jazyk": "TypeScript",
+   "posledni": "2026-11-08",
+   "dni_prace": 14,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    670,
+    64,
+    108
+   ],
+   "barva": "zelena"
+  },
+  {
    "nazev": "PS4Video",
    "jazyk": "HTML",
    "posledni": "2026-11-08",
@@ -83,7 +104,7 @@
     0,
     36
    ],
-   "barva": "zelena"
+   "barva": "malina"
   },
   {
    "nazev": "emailrator-formulare",
@@ -105,27 +126,6 @@
     19
    ],
    "url": "https://github.com/LukasWana/emailrator-formulare",
-   "barva": "malina"
-  },
-  {
-   "nazev": "preludecrm",
-   "jazyk": "TypeScript",
-   "posledni": "2026-11-05",
-   "dni_prace": 13,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    670,
-    64,
-    107
-   ],
    "barva": "azur"
   },
   {
@@ -284,7 +284,7 @@
     260,
     129,
     109,
-    27
+    28
    ],
    "aplikace": [
     {
@@ -431,5 +431,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-08T21:17Z"
+ "aktualizovano": "2026-11-08T22:17Z"
 }
