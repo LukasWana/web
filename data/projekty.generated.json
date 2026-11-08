@@ -18,7 +18,7 @@
     30,
     70,
     138,
-    260
+    266
    ],
    "barva": "fialova"
   },
@@ -44,7 +44,29 @@
    "barva": "tyrkys"
   },
   {
+   "nazev": "GEmailRator",
+   "jazyk": "JavaScript",
+   "posledni": "2026-11-08",
+   "dni_prace": 16,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    124,
+    38,
+    1,
+    16,
+    0,
+    89
+   ],
+   "barva": "zlata"
+  },
+  {
    "nazev": "PS4Video",
+   "jazyk": "Python",
    "posledni": "2026-11-08",
    "dni_prace": 1,
    "tydny": [
@@ -59,28 +81,7 @@
     0,
     0,
     0,
-    9
-   ],
-   "barva": "zlata"
-  },
-  {
-   "nazev": "GEmailRator",
-   "jazyk": "JavaScript",
-   "posledni": "2026-11-07",
-   "dni_prace": 15,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    124,
-    38,
-    1,
-    16,
-    0,
-    88
+    27
    ],
    "barva": "zelena"
   },
@@ -430,5 +431,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-08T15:17Z"
+ "aktualizovano": "2026-11-08T16:17Z"
 }
