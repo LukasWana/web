@@ -18,7 +18,7 @@
     30,
     70,
     138,
-    253
+    255
    ],
    "barva": "fialova"
   },
@@ -44,6 +44,26 @@
    "barva": "tyrkys"
   },
   {
+   "nazev": "PS4Video",
+   "posledni": "2026-11-08",
+   "dni_prace": 1,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3
+   ],
+   "barva": "zlata"
+  },
+  {
    "nazev": "GEmailRator",
    "jazyk": "JavaScript",
    "posledni": "2026-11-07",
@@ -62,7 +82,7 @@
     0,
     88
    ],
-   "barva": "zlata"
+   "barva": "zelena"
   },
   {
    "nazev": "emailrator-formulare",
@@ -84,7 +104,7 @@
     19
    ],
    "url": "https://github.com/LukasWana/emailrator-formulare",
-   "barva": "zelena"
+   "barva": "malina"
   },
   {
    "nazev": "preludecrm",
@@ -105,7 +125,7 @@
     64,
     107
    ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "PDFValidator",
@@ -126,7 +146,7 @@
     71,
     46
    ],
-   "barva": "azur"
+   "barva": "modra"
   },
   {
    "nazev": "kolodej-date",
@@ -148,32 +168,16 @@
     2
    ],
    "url": "https://github.com/LukasWana/kolodej-date",
-   "barva": "modra"
-  },
-  {
-   "nazev": "Prelude",
-   "jazyk": "HTML",
-   "posledni": "2026-10-27",
-   "dni_prace": 3,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2,
-    9,
-    0
-   ],
-   "url": "https://github.com/LukasWana/Prelude",
    "barva": "purpur"
   }
  ],
  "archiv": [
+  {
+   "nazev": "Prelude",
+   "jazyk": "HTML",
+   "posledni": "2026-10-27",
+   "url": "https://github.com/LukasWana/Prelude"
+  },
   {
    "nazev": "whisper-sk-transcriber",
    "jazyk": "Python",
@@ -265,8 +269,8 @@
   {
    "nazev": "Domácí server",
    "popis": "Vlastní aplikace do telefonu (PWA), které běží na mém domácím serveru",
-   "posledni": "2026-11-06",
-   "dni_prace": 60,
+   "posledni": "2026-11-08",
+   "dni_prace": 61,
    "tydny": [
     0,
     85,
@@ -279,7 +283,7 @@
     260,
     129,
     109,
-    26
+    27
    ],
    "aplikace": [
     {
@@ -426,5 +430,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-08T07:17Z"
+ "aktualizovano": "2026-11-08T08:17Z"
 }
