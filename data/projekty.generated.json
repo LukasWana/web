@@ -4,8 +4,8 @@
    "nazev": "EmailRator",
    "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
    "jazyk": "Python",
-   "posledni": "2026-11-09",
-   "dni_prace": 41,
+   "posledni": "2026-11-10",
+   "dni_prace": 42,
    "tydny": [
     0,
     0,
@@ -18,9 +18,30 @@
     70,
     138,
     280,
-    43
+    52
    ],
    "barva": "fialova"
+  },
+  {
+   "nazev": "GEmailRator",
+   "jazyk": "JavaScript",
+   "posledni": "2026-11-10",
+   "dni_prace": 18,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    124,
+    38,
+    1,
+    16,
+    0,
+    93,
+    10
+   ],
+   "barva": "tyrkys"
   },
   {
    "nazev": "FMake",
@@ -40,27 +61,6 @@
     54,
     139,
     11
-   ],
-   "barva": "tyrkys"
-  },
-  {
-   "nazev": "GEmailRator",
-   "jazyk": "JavaScript",
-   "posledni": "2026-11-09",
-   "dni_prace": 17,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    124,
-    38,
-    1,
-    16,
-    0,
-    93,
-    7
    ],
    "barva": "zlata"
   },
@@ -431,5 +431,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-10T00:17Z"
+ "aktualizovano": "2026-11-10T01:17Z"
 }
