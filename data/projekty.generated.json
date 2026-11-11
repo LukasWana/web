@@ -18,9 +18,30 @@
     70,
     138,
     280,
-    146
+    151
    ],
    "barva": "fialova"
+  },
+  {
+   "nazev": "FMake",
+   "jazyk": "Python",
+   "posledni": "2026-11-11",
+   "dni_prace": 20,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    151,
+    320,
+    54,
+    139,
+    13
+   ],
+   "barva": "tyrkys"
   },
   {
    "nazev": "GEmailRator",
@@ -41,7 +62,7 @@
     93,
     29
    ],
-   "barva": "tyrkys"
+   "barva": "zlata"
   },
   {
    "nazev": "PS4Video",
@@ -61,27 +82,6 @@
     0,
     36,
     1
-   ],
-   "barva": "zlata"
-  },
-  {
-   "nazev": "FMake",
-   "jazyk": "Python",
-   "posledni": "2026-11-09",
-   "dni_prace": 19,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    151,
-    320,
-    54,
-    139,
-    11
    ],
    "barva": "zelena"
   },
@@ -431,5 +431,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-11T17:17Z"
+ "aktualizovano": "2026-11-11T18:17Z"
 }
