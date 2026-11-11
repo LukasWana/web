@@ -18,15 +18,15 @@
     70,
     138,
     280,
-    112
+    117
    ],
    "barva": "fialova"
   },
   {
    "nazev": "GEmailRator",
    "jazyk": "JavaScript",
-   "posledni": "2026-11-10",
-   "dni_prace": 18,
+   "posledni": "2026-11-11",
+   "dni_prace": 19,
    "tydny": [
     0,
     0,
@@ -39,7 +39,7 @@
     16,
     0,
     93,
-    26
+    29
    ],
    "barva": "tyrkys"
   },
@@ -431,5 +431,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-11T09:17Z"
+ "aktualizovano": "2026-11-11T10:17Z"
 }
