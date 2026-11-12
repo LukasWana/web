@@ -18,7 +18,7 @@
     70,
     138,
     280,
-    192
+    193
    ],
    "barva": "fialova"
   },
@@ -354,7 +354,7 @@
    "nazev": "TTS-cesky-test",
    "popis": "Offline převod českého textu na řeč a klonování hlasu (XTTS-v2)",
    "jazyk": "Python",
-   "posledni": "2026-01-08",
+   "posledni": "2026-11-12",
    "url": "https://github.com/LukasWana/TTS-cesky-test"
   },
   {
@@ -431,5 +431,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-12T11:17Z"
+ "aktualizovano": "2026-11-12T12:17Z"
 }
