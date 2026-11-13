@@ -18,15 +18,15 @@
     70,
     138,
     280,
-    228
+    234
    ],
    "barva": "fialova"
   },
   {
    "nazev": "FMake",
    "jazyk": "Python",
-   "posledni": "2026-11-12",
-   "dni_prace": 21,
+   "posledni": "2026-11-13",
+   "dni_prace": 22,
    "tydny": [
     0,
     0,
@@ -39,7 +39,7 @@
     320,
     54,
     139,
-    26
+    32
    ],
    "barva": "tyrkys"
   },
@@ -270,8 +270,8 @@
   {
    "nazev": "Domácí server",
    "popis": "Vlastní aplikace do telefonu (PWA), které běží na mém domácím serveru",
-   "posledni": "2026-11-08",
-   "dni_prace": 61,
+   "posledni": "2026-11-13",
+   "dni_prace": 62,
    "tydny": [
     85,
     199,
@@ -284,7 +284,7 @@
     129,
     109,
     28,
-    0
+    7
    ],
    "aplikace": [
     {
@@ -431,5 +431,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-13T05:17Z"
+ "aktualizovano": "2026-11-13T07:17Z"
 }
