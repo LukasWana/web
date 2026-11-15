@@ -4,8 +4,8 @@
    "nazev": "EmailRator",
    "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
    "jazyk": "Python",
-   "posledni": "2026-11-14",
-   "dni_prace": 46,
+   "posledni": "2026-11-15",
+   "dni_prace": 47,
    "tydny": [
     0,
     0,
@@ -18,9 +18,51 @@
     70,
     138,
     280,
-    288
+    289
    ],
    "barva": "fialova"
+  },
+  {
+   "nazev": "EmailRatorWana",
+   "jazyk": "Python",
+   "posledni": "2026-11-15",
+   "dni_prace": 2,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    13
+   ],
+   "barva": "tyrkys"
+  },
+  {
+   "nazev": "preludecrm",
+   "jazyk": "TypeScript",
+   "posledni": "2026-11-15",
+   "dni_prace": 16,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    670,
+    64,
+    108,
+    5
+   ],
+   "barva": "zlata"
   },
   {
    "nazev": "FMake",
@@ -41,7 +83,7 @@
     139,
     33
    ],
-   "barva": "tyrkys"
+   "barva": "zelena"
   },
   {
    "nazev": "GEmailRator",
@@ -62,7 +104,7 @@
     93,
     29
    ],
-   "barva": "zlata"
+   "barva": "malina"
   },
   {
    "nazev": "PS4Video",
@@ -83,28 +125,7 @@
     36,
     1
    ],
-   "barva": "zelena"
-  },
-  {
-   "nazev": "preludecrm",
-   "jazyk": "TypeScript",
-   "posledni": "2026-11-08",
-   "dni_prace": 14,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    670,
-    64,
-    108,
-    0
-   ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "emailrator-formulare",
@@ -126,7 +147,7 @@
     0
    ],
    "url": "https://github.com/LukasWana/emailrator-formulare",
-   "barva": "azur"
+   "barva": "modra"
   },
   {
    "nazev": "PDFValidator",
@@ -147,32 +168,16 @@
     46,
     0
    ],
-   "barva": "modra"
-  },
-  {
-   "nazev": "kolodej-date",
-   "jazyk": "HTML",
-   "posledni": "2026-11-02",
-   "dni_prace": 1,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2,
-    0
-   ],
-   "url": "https://github.com/LukasWana/kolodej-date",
    "barva": "purpur"
   }
  ],
  "archiv": [
+  {
+   "nazev": "kolodej-date",
+   "jazyk": "HTML",
+   "posledni": "2026-11-02",
+   "url": "https://github.com/LukasWana/kolodej-date"
+  },
   {
    "nazev": "Prelude",
    "jazyk": "HTML",
@@ -431,5 +436,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-15T00:17Z"
+ "aktualizovano": "2026-11-15T01:17Z"
 }
