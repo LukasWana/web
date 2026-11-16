@@ -18,15 +18,15 @@
     138,
     280,
     304,
-    1
+    2
    ],
    "barva": "fialova"
   },
   {
    "nazev": "EmailRatorWana",
    "jazyk": "Python",
-   "posledni": "2026-11-15",
-   "dni_prace": 2,
+   "posledni": "2026-11-16",
+   "dni_prace": 3,
    "tydny": [
     0,
     0,
@@ -39,7 +39,7 @@
     0,
     0,
     57,
-    0
+    1
    ],
    "barva": "tyrkys"
   },
@@ -436,5 +436,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-16T08:17Z"
+ "aktualizovano": "2026-11-16T09:17Z"
 }
