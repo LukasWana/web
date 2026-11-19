@@ -1,7 +1,29 @@
 {
  "aktivni": [
   {
+   "nazev": "FMake",
+   "jazyk": "Python",
+   "posledni": "2026-11-19",
+   "dni_prace": 26,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    151,
+    320,
+    54,
+    139,
+    34,
+    34
+   ],
+   "barva": "tyrkys"
+  },
+  {
    "nazev": "HAsistent",
+   "jazyk": "Python",
    "posledni": "2026-11-19",
    "dni_prace": 6,
    "tydny": [
@@ -16,9 +38,9 @@
     0,
     0,
     83,
-    137
+    151
    ],
-   "barva": "tyrkys"
+   "barva": "zlata"
   },
   {
    "nazev": "EmailRator",
@@ -41,27 +63,6 @@
     25
    ],
    "barva": "fialova"
-  },
-  {
-   "nazev": "FMake",
-   "jazyk": "Python",
-   "posledni": "2026-11-18",
-   "dni_prace": 25,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    151,
-    320,
-    54,
-    139,
-    34,
-    33
-   ],
-   "barva": "zlata"
   },
   {
    "nazev": "GEmailRator",
@@ -293,7 +294,7 @@
     109,
     28,
     38,
-    76
+    90
    ],
    "aplikace": [
     {
@@ -440,5 +441,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-19T13:17Z"
+ "aktualizovano": "2026-11-19T14:17Z"
 }
