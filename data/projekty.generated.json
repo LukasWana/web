@@ -1,6 +1,27 @@
 {
  "aktivni": [
   {
+   "nazev": "HAsistent",
+   "jazyk": "Python",
+   "posledni": "2026-11-20",
+   "dni_prace": 7,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    83,
+    191
+   ],
+   "barva": "tyrkys"
+  },
+  {
    "nazev": "FMake",
    "jazyk": "Python",
    "posledni": "2026-11-19",
@@ -18,27 +39,6 @@
     139,
     34,
     35
-   ],
-   "barva": "tyrkys"
-  },
-  {
-   "nazev": "HAsistent",
-   "jazyk": "Python",
-   "posledni": "2026-11-19",
-   "dni_prace": 6,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    83,
-    187
    ],
    "barva": "zlata"
   },
@@ -441,5 +441,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-20T00:17Z"
+ "aktualizovano": "2026-11-20T08:17Z"
 }
