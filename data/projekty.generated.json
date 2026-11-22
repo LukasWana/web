@@ -23,6 +23,26 @@
    "barva": "fialova"
   },
   {
+   "nazev": "Tailscale-users",
+   "posledni": "2026-11-22",
+   "dni_prace": 1,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "barva": "tyrkys"
+  },
+  {
    "nazev": "GEmailRator",
    "jazyk": "JavaScript",
    "posledni": "2026-11-21",
@@ -41,7 +61,7 @@
     29,
     6
    ],
-   "barva": "tyrkys"
+   "barva": "zlata"
   },
   {
    "nazev": "FMake",
@@ -62,7 +82,7 @@
     34,
     55
    ],
-   "barva": "zlata"
+   "barva": "zelena"
   },
   {
    "nazev": "HAsistent",
@@ -83,7 +103,7 @@
     83,
     224
    ],
-   "barva": "zelena"
+   "barva": "malina"
   },
   {
    "nazev": "EmailRatorWana",
@@ -104,7 +124,7 @@
     57,
     3
    ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "preludecrm",
@@ -125,7 +145,7 @@
     7,
     0
    ],
-   "barva": "azur"
+   "barva": "modra"
   },
   {
    "nazev": "PS4Video",
@@ -146,32 +166,16 @@
     1,
     0
    ],
-   "barva": "modra"
-  },
-  {
-   "nazev": "emailrator-formulare",
-   "jazyk": "HTML",
-   "posledni": "2026-11-06",
-   "dni_prace": 4,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2,
-    19,
-    0,
-    0
-   ],
-   "url": "https://github.com/LukasWana/emailrator-formulare",
    "barva": "purpur"
   }
  ],
  "archiv": [
+  {
+   "nazev": "emailrator-formulare",
+   "jazyk": "HTML",
+   "posledni": "2026-11-06",
+   "url": "https://github.com/LukasWana/emailrator-formulare"
+  },
   {
    "nazev": "PDFValidator",
    "jazyk": "Python",
@@ -280,8 +284,8 @@
   {
    "nazev": "Domácí server",
    "popis": "Vlastní aplikace do telefonu (PWA), které běží na mém domácím serveru",
-   "posledni": "2026-11-21",
-   "dni_prace": 67,
+   "posledni": "2026-11-22",
+   "dni_prace": 68,
    "tydny": [
     199,
     160,
@@ -294,7 +298,7 @@
     109,
     28,
     38,
-    336
+    340
    ],
    "aplikace": [
     {
@@ -441,5 +445,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-22T10:17Z"
+ "aktualizovano": "2026-11-22T12:17Z"
 }
