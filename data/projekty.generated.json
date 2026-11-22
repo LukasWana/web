@@ -18,7 +18,7 @@
     138,
     280,
     304,
-    144
+    152
    ],
    "barva": "fialova"
   },
@@ -44,6 +44,27 @@
    "barva": "tyrkys"
   },
   {
+   "nazev": "preludecrm",
+   "jazyk": "TypeScript",
+   "posledni": "2026-11-22",
+   "dni_prace": 17,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    670,
+    64,
+    108,
+    7,
+    1
+   ],
+   "barva": "zlata"
+  },
+  {
    "nazev": "Tailscale-users",
    "jazyk": "Python",
    "posledni": "2026-11-22",
@@ -62,7 +83,7 @@
     0,
     41
    ],
-   "barva": "zlata"
+   "barva": "zelena"
   },
   {
    "nazev": "FMake",
@@ -83,7 +104,7 @@
     34,
     55
    ],
-   "barva": "zelena"
+   "barva": "malina"
   },
   {
    "nazev": "HAsistent",
@@ -104,7 +125,7 @@
     83,
     224
    ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "EmailRatorWana",
@@ -124,27 +145,6 @@
     0,
     57,
     3
-   ],
-   "barva": "azur"
-  },
-  {
-   "nazev": "preludecrm",
-   "jazyk": "TypeScript",
-   "posledni": "2026-11-15",
-   "dni_prace": 16,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    670,
-    64,
-    108,
-    7,
-    0
    ],
    "barva": "modra"
   },
@@ -299,7 +299,7 @@
     109,
     28,
     38,
-    359
+    360
    ],
    "aplikace": [
     {
@@ -446,5 +446,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-22T20:17Z"
+ "aktualizovano": "2026-11-22T21:17Z"
 }
