@@ -18,9 +18,30 @@
     138,
     280,
     304,
-    124
+    126
    ],
    "barva": "fialova"
+  },
+  {
+   "nazev": "GEmailRator",
+   "jazyk": "JavaScript",
+   "posledni": "2026-11-22",
+   "dni_prace": 22,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    124,
+    38,
+    1,
+    16,
+    0,
+    93,
+    29,
+    7
+   ],
+   "barva": "tyrkys"
   },
   {
    "nazev": "Tailscale-users",
@@ -39,28 +60,7 @@
     0,
     0,
     0,
-    24
-   ],
-   "barva": "tyrkys"
-  },
-  {
-   "nazev": "GEmailRator",
-   "jazyk": "JavaScript",
-   "posledni": "2026-11-21",
-   "dni_prace": 21,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    124,
-    38,
-    1,
-    16,
-    0,
-    93,
-    29,
-    6
+    34
    ],
    "barva": "zlata"
   },
@@ -446,5 +446,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-22T14:17Z"
+ "aktualizovano": "2026-11-22T15:17Z"
 }
