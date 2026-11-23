@@ -23,6 +23,26 @@
    "barva": "fialova"
   },
   {
+   "nazev": "EmailWana",
+   "posledni": "2026-11-23",
+   "dni_prace": 1,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2
+   ],
+   "barva": "tyrkys"
+  },
+  {
    "nazev": "preludecrm",
    "jazyk": "TypeScript",
    "posledni": "2026-11-23",
@@ -39,9 +59,9 @@
     108,
     7,
     14,
-    49
+    72
    ],
-   "barva": "tyrkys"
+   "barva": "zlata"
   },
   {
    "nazev": "GEmailRator",
@@ -62,7 +82,7 @@
     8,
     0
    ],
-   "barva": "zlata"
+   "barva": "zelena"
   },
   {
    "nazev": "Tailscale-users",
@@ -83,7 +103,7 @@
     43,
     0
    ],
-   "barva": "zelena"
+   "barva": "malina"
   },
   {
    "nazev": "FMake",
@@ -104,7 +124,7 @@
     55,
     0
    ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "HAsistent",
@@ -125,7 +145,7 @@
     224,
     0
    ],
-   "barva": "azur"
+   "barva": "modra"
   },
   {
    "nazev": "EmailRatorWana",
@@ -146,31 +166,15 @@
     3,
     0
    ],
-   "barva": "modra"
-  },
-  {
-   "nazev": "PS4Video",
-   "jazyk": "HTML",
-   "posledni": "2026-11-10",
-   "dni_prace": 2,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    36,
-    1,
-    0,
-    0
-   ],
    "barva": "purpur"
   }
  ],
  "archiv": [
+  {
+   "nazev": "PS4Video",
+   "jazyk": "HTML",
+   "posledni": "2026-11-10"
+  },
   {
    "nazev": "emailrator-formulare",
    "jazyk": "HTML",
@@ -446,5 +450,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-23T17:17Z"
+ "aktualizovano": "2026-11-23T18:17Z"
 }
