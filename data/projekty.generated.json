@@ -1,6 +1,27 @@
 {
  "aktivni": [
   {
+   "nazev": "preludecrm",
+   "jazyk": "TypeScript",
+   "posledni": "2026-11-23",
+   "dni_prace": 18,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    670,
+    64,
+    108,
+    7,
+    14,
+    2
+   ],
+   "barva": "tyrkys"
+  },
+  {
    "nazev": "EmailRator",
    "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
    "jazyk": "Python",
@@ -39,27 +60,6 @@
     93,
     29,
     8,
-    0
-   ],
-   "barva": "tyrkys"
-  },
-  {
-   "nazev": "preludecrm",
-   "jazyk": "TypeScript",
-   "posledni": "2026-11-22",
-   "dni_prace": 17,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    670,
-    64,
-    108,
-    7,
-    14,
     0
    ],
    "barva": "zlata"
@@ -446,5 +446,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-23T00:17Z"
+ "aktualizovano": "2026-11-23T09:17Z"
 }
