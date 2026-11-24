@@ -18,7 +18,7 @@
     280,
     304,
     161,
-    86
+    95
    ],
    "barva": "fialova"
   },
@@ -81,9 +81,31 @@
     108,
     7,
     14,
-    84
+    86
    ],
    "barva": "zelena"
+  },
+  {
+   "nazev": "prihlaseni-kodem",
+   "jazyk": "HTML",
+   "posledni": "2026-11-24",
+   "dni_prace": 1,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3
+   ],
+   "url": "https://github.com/LukasWana/prihlaseni-kodem",
+   "barva": "malina"
   },
   {
    "nazev": "GEmailRator",
@@ -104,7 +126,7 @@
     8,
     0
    ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "Tailscale-users",
@@ -125,7 +147,7 @@
     43,
     0
    ],
-   "barva": "azur"
+   "barva": "modra"
   },
   {
    "nazev": "FMake",
@@ -146,31 +168,15 @@
     55,
     0
    ],
-   "barva": "modra"
-  },
-  {
-   "nazev": "HAsistent",
-   "jazyk": "Python",
-   "posledni": "2026-11-20",
-   "dni_prace": 7,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    83,
-    224,
-    0
-   ],
    "barva": "purpur"
   }
  ],
  "archiv": [
+  {
+   "nazev": "HAsistent",
+   "jazyk": "Python",
+   "posledni": "2026-11-20"
+  },
   {
    "nazev": "PS4Video",
    "jazyk": "HTML",
@@ -451,5 +457,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-24T09:17Z"
+ "aktualizovano": "2026-11-24T10:17Z"
 }
