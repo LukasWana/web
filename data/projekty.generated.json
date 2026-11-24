@@ -4,8 +4,8 @@
    "nazev": "EmailRator",
    "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
    "jazyk": "Python",
-   "posledni": "2026-11-23",
-   "dni_prace": 54,
+   "posledni": "2026-11-24",
+   "dni_prace": 55,
    "tydny": [
     0,
     0,
@@ -18,15 +18,36 @@
     280,
     304,
     161,
-    81
+    86
    ],
    "barva": "fialova"
   },
   {
+   "nazev": "EmailRatorWana",
+   "jazyk": "Python",
+   "posledni": "2026-11-24",
+   "dni_prace": 5,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    57,
+    3,
+    2
+   ],
+   "barva": "tyrkys"
+  },
+  {
    "nazev": "EmailWana",
    "jazyk": "Python",
-   "posledni": "2026-11-23",
-   "dni_prace": 1,
+   "posledni": "2026-11-24",
+   "dni_prace": 2,
    "tydny": [
     0,
     0,
@@ -39,15 +60,15 @@
     0,
     0,
     0,
-    16
+    21
    ],
-   "barva": "tyrkys"
+   "barva": "zlata"
   },
   {
    "nazev": "preludecrm",
    "jazyk": "TypeScript",
-   "posledni": "2026-11-23",
-   "dni_prace": 18,
+   "posledni": "2026-11-24",
+   "dni_prace": 19,
    "tydny": [
     0,
     0,
@@ -60,9 +81,9 @@
     108,
     7,
     14,
-    79
+    84
    ],
-   "barva": "zlata"
+   "barva": "zelena"
   },
   {
    "nazev": "GEmailRator",
@@ -83,7 +104,7 @@
     8,
     0
    ],
-   "barva": "zelena"
+   "barva": "malina"
   },
   {
    "nazev": "Tailscale-users",
@@ -104,7 +125,7 @@
     43,
     0
    ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "FMake",
@@ -125,7 +146,7 @@
     55,
     0
    ],
-   "barva": "azur"
+   "barva": "modra"
   },
   {
    "nazev": "HAsistent",
@@ -144,27 +165,6 @@
     0,
     83,
     224,
-    0
-   ],
-   "barva": "modra"
-  },
-  {
-   "nazev": "EmailRatorWana",
-   "jazyk": "Python",
-   "posledni": "2026-11-16",
-   "dni_prace": 3,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    57,
-    3,
     0
    ],
    "barva": "purpur"
@@ -451,5 +451,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-24T00:17Z"
+ "aktualizovano": "2026-11-24T09:17Z"
 }
