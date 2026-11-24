@@ -1,6 +1,27 @@
 {
  "aktivni": [
   {
+   "nazev": "ADRadarList",
+   "jazyk": "HTML",
+   "posledni": "2026-11-24",
+   "dni_prace": 1,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "barva": "tyrkys"
+  },
+  {
    "nazev": "EmailRator",
    "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
    "jazyk": "Python",
@@ -41,7 +62,7 @@
     3,
     54
    ],
-   "barva": "tyrkys"
+   "barva": "zlata"
   },
   {
    "nazev": "EmailWana",
@@ -62,7 +83,7 @@
     0,
     24
    ],
-   "barva": "zlata"
+   "barva": "zelena"
   },
   {
    "nazev": "HAsistent",
@@ -83,7 +104,7 @@
     239,
     49
    ],
-   "barva": "zelena"
+   "barva": "malina"
   },
   {
    "nazev": "preludecrm",
@@ -102,9 +123,9 @@
     108,
     7,
     14,
-    113
+    115
    ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "prihlaseni-kodem",
@@ -126,7 +147,7 @@
     3
    ],
    "url": "https://github.com/LukasWana/prihlaseni-kodem",
-   "barva": "azur"
+   "barva": "modra"
   },
   {
    "nazev": "GEmailRator",
@@ -147,31 +168,15 @@
     8,
     0
    ],
-   "barva": "modra"
-  },
-  {
-   "nazev": "Tailscale-users",
-   "jazyk": "Python",
-   "posledni": "2026-11-22",
-   "dni_prace": 1,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    43,
-    0
-   ],
    "barva": "purpur"
   }
  ],
  "archiv": [
+  {
+   "nazev": "Tailscale-users",
+   "jazyk": "Python",
+   "posledni": "2026-11-22"
+  },
   {
    "nazev": "FMake",
    "jazyk": "Python",
@@ -457,5 +462,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-24T19:17Z"
+ "aktualizovano": "2026-11-24T22:17Z"
 }
