@@ -44,6 +44,27 @@
    "barva": "tyrkys"
   },
   {
+   "nazev": "PDFValidator",
+   "jazyk": "Python",
+   "posledni": "2026-11-25",
+   "dni_prace": 6,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    71,
+    46,
+    0,
+    0,
+    3
+   ],
+   "barva": "zlata"
+  },
+  {
    "nazev": "preludecrm",
    "jazyk": "TypeScript",
    "posledni": "2026-11-25",
@@ -62,7 +83,7 @@
     14,
     152
    ],
-   "barva": "zlata"
+   "barva": "zelena"
   },
   {
    "nazev": "ADRadarList",
@@ -83,7 +104,7 @@
     0,
     1
    ],
-   "barva": "zelena"
+   "barva": "malina"
   },
   {
    "nazev": "EmailRatorWana",
@@ -104,7 +125,7 @@
     3,
     54
    ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "EmailWana",
@@ -125,7 +146,7 @@
     0,
     24
    ],
-   "barva": "azur"
+   "barva": "modra"
   },
   {
    "nazev": "prihlaseni-kodem",
@@ -147,31 +168,15 @@
     3
    ],
    "url": "https://github.com/LukasWana/prihlaseni-kodem",
-   "barva": "modra"
-  },
-  {
-   "nazev": "GEmailRator",
-   "jazyk": "JavaScript",
-   "posledni": "2026-11-22",
-   "dni_prace": 22,
-   "tydny": [
-    0,
-    0,
-    0,
-    124,
-    38,
-    1,
-    16,
-    0,
-    93,
-    29,
-    8,
-    0
-   ],
    "barva": "purpur"
   }
  ],
  "archiv": [
+  {
+   "nazev": "GEmailRator",
+   "jazyk": "JavaScript",
+   "posledni": "2026-11-22"
+  },
   {
    "nazev": "Tailscale-users",
    "jazyk": "Python",
@@ -192,11 +197,6 @@
    "jazyk": "HTML",
    "posledni": "2026-11-06",
    "url": "https://github.com/LukasWana/emailrator-formulare"
-  },
-  {
-   "nazev": "PDFValidator",
-   "jazyk": "Python",
-   "posledni": "2026-11-04"
   },
   {
    "nazev": "kolodej-date",
@@ -462,5 +462,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-25T19:17Z"
+ "aktualizovano": "2026-11-25T20:17Z"
 }
