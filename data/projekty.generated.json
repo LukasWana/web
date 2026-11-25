@@ -1,6 +1,27 @@
 {
  "aktivni": [
   {
+   "nazev": "preludecrm",
+   "jazyk": "TypeScript",
+   "posledni": "2026-11-25",
+   "dni_prace": 20,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    670,
+    64,
+    108,
+    7,
+    14,
+    118
+   ],
+   "barva": "tyrkys"
+  },
+  {
    "nazev": "ADRadarList",
    "jazyk": "HTML",
    "posledni": "2026-11-24",
@@ -19,7 +40,7 @@
     0,
     1
    ],
-   "barva": "tyrkys"
+   "barva": "zlata"
   },
   {
    "nazev": "EmailRator",
@@ -62,7 +83,7 @@
     3,
     54
    ],
-   "barva": "zlata"
+   "barva": "zelena"
   },
   {
    "nazev": "EmailWana",
@@ -83,7 +104,7 @@
     0,
     24
    ],
-   "barva": "zelena"
+   "barva": "malina"
   },
   {
    "nazev": "HAsistent",
@@ -103,27 +124,6 @@
     83,
     239,
     49
-   ],
-   "barva": "malina"
-  },
-  {
-   "nazev": "preludecrm",
-   "jazyk": "TypeScript",
-   "posledni": "2026-11-24",
-   "dni_prace": 19,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    670,
-    64,
-    108,
-    7,
-    14,
-    115
    ],
    "barva": "azur"
   },
@@ -462,5 +462,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-25T00:17Z"
+ "aktualizovano": "2026-11-25T12:17Z"
 }
