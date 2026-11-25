@@ -23,6 +23,27 @@
    "barva": "fialova"
   },
   {
+   "nazev": "FMake",
+   "jazyk": "Python",
+   "posledni": "2026-11-25",
+   "dni_prace": 28,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    151,
+    320,
+    54,
+    139,
+    34,
+    55,
+    1
+   ],
+   "barva": "tyrkys"
+  },
+  {
    "nazev": "HAsistent",
    "jazyk": "Python",
    "posledni": "2026-11-25",
@@ -39,9 +60,9 @@
     0,
     83,
     239,
-    118
+    126
    ],
-   "barva": "tyrkys"
+   "barva": "zlata"
   },
   {
    "nazev": "PDFValidator",
@@ -62,7 +83,7 @@
     0,
     3
    ],
-   "barva": "zlata"
+   "barva": "zelena"
   },
   {
    "nazev": "preludecrm",
@@ -81,9 +102,9 @@
     108,
     7,
     14,
-    155
+    163
    ],
-   "barva": "zelena"
+   "barva": "malina"
   },
   {
    "nazev": "ADRadarList",
@@ -104,7 +125,7 @@
     0,
     1
    ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "EmailRatorWana",
@@ -125,7 +146,7 @@
     3,
     54
    ],
-   "barva": "azur"
+   "barva": "modra"
   },
   {
    "nazev": "EmailWana",
@@ -146,32 +167,16 @@
     0,
     24
    ],
-   "barva": "modra"
-  },
-  {
-   "nazev": "prihlaseni-kodem",
-   "jazyk": "HTML",
-   "posledni": "2026-11-24",
-   "dni_prace": 1,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    3
-   ],
-   "url": "https://github.com/LukasWana/prihlaseni-kodem",
    "barva": "purpur"
   }
  ],
  "archiv": [
+  {
+   "nazev": "prihlaseni-kodem",
+   "jazyk": "HTML",
+   "posledni": "2026-11-24",
+   "url": "https://github.com/LukasWana/prihlaseni-kodem"
+  },
   {
    "nazev": "GEmailRator",
    "jazyk": "JavaScript",
@@ -181,11 +186,6 @@
    "nazev": "Tailscale-users",
    "jazyk": "Python",
    "posledni": "2026-11-22"
-  },
-  {
-   "nazev": "FMake",
-   "jazyk": "Python",
-   "posledni": "2026-11-20"
   },
   {
    "nazev": "PS4Video",
@@ -462,5 +462,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-25T21:17Z"
+ "aktualizovano": "2026-11-25T22:17Z"
 }
