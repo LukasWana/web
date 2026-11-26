@@ -17,9 +17,30 @@
     0,
     83,
     239,
-    138
+    140
    ],
    "barva": "tyrkys"
+  },
+  {
+   "nazev": "preludecrm",
+   "jazyk": "TypeScript",
+   "posledni": "2026-11-26",
+   "dni_prace": 21,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    670,
+    64,
+    108,
+    7,
+    14,
+    172
+   ],
+   "barva": "zlata"
   },
   {
    "nazev": "EmailRator",
@@ -62,7 +83,7 @@
     55,
     1
    ],
-   "barva": "zlata"
+   "barva": "zelena"
   },
   {
    "nazev": "PDFValidator",
@@ -82,27 +103,6 @@
     0,
     0,
     3
-   ],
-   "barva": "zelena"
-  },
-  {
-   "nazev": "preludecrm",
-   "jazyk": "TypeScript",
-   "posledni": "2026-11-25",
-   "dni_prace": 20,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    670,
-    64,
-    108,
-    7,
-    14,
-    170
    ],
    "barva": "malina"
   },
@@ -301,8 +301,8 @@
   {
    "nazev": "Domácí server",
    "popis": "Vlastní aplikace do telefonu (PWA), které běží na mém domácím serveru",
-   "posledni": "2026-11-25",
-   "dni_prace": 63,
+   "posledni": "2026-11-26",
+   "dni_prace": 64,
    "tydny": [
     160,
     95,
@@ -315,7 +315,7 @@
     28,
     38,
     361,
-    1
+    2
    ],
    "aplikace": [
     {
@@ -462,5 +462,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-26T08:17Z"
+ "aktualizovano": "2026-11-26T09:17Z"
 }
