@@ -60,7 +60,7 @@
     0,
     83,
     239,
-    126
+    136
    ],
    "barva": "zlata"
   },
@@ -102,7 +102,7 @@
     108,
     7,
     14,
-    167
+    170
    ],
    "barva": "malina"
   },
@@ -301,8 +301,8 @@
   {
    "nazev": "Domácí server",
    "popis": "Vlastní aplikace do telefonu (PWA), které běží na mém domácím serveru",
-   "posledni": "2026-11-22",
-   "dni_prace": 62,
+   "posledni": "2026-11-25",
+   "dni_prace": 63,
    "tydny": [
     160,
     95,
@@ -315,7 +315,7 @@
     28,
     38,
     361,
-    0
+    1
    ],
    "aplikace": [
     {
@@ -462,5 +462,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-25T23:17Z"
+ "aktualizovano": "2026-11-26T00:17Z"
 }
