@@ -18,7 +18,7 @@
     280,
     304,
     161,
-    164
+    170
    ],
    "barva": "fialova"
   },
@@ -60,7 +60,7 @@
     108,
     7,
     14,
-    206
+    218
    ],
    "barva": "zlata"
   },
@@ -315,7 +315,7 @@
     28,
     38,
     361,
-    34
+    63
    ],
    "aplikace": [
     {
@@ -462,5 +462,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-27T09:17Z"
+ "aktualizovano": "2026-11-27T10:17Z"
 }
