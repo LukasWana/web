@@ -18,9 +18,30 @@
     280,
     304,
     161,
-    176
+    183
    ],
    "barva": "fialova"
+  },
+  {
+   "nazev": "EmailRatorWana",
+   "jazyk": "Python",
+   "posledni": "2026-11-27",
+   "dni_prace": 6,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    57,
+    3,
+    64
+   ],
+   "barva": "tyrkys"
   },
   {
    "nazev": "HAsistent",
@@ -41,7 +62,7 @@
     239,
     186
    ],
-   "barva": "tyrkys"
+   "barva": "zlata"
   },
   {
    "nazev": "preludecrm",
@@ -62,7 +83,7 @@
     14,
     219
    ],
-   "barva": "zlata"
+   "barva": "zelena"
   },
   {
    "nazev": "FMake",
@@ -83,7 +104,7 @@
     55,
     1
    ],
-   "barva": "zelena"
+   "barva": "malina"
   },
   {
    "nazev": "PDFValidator",
@@ -104,7 +125,7 @@
     0,
     3
    ],
-   "barva": "malina"
+   "barva": "azur"
   },
   {
    "nazev": "ADRadarList",
@@ -124,27 +145,6 @@
     0,
     0,
     1
-   ],
-   "barva": "azur"
-  },
-  {
-   "nazev": "EmailRatorWana",
-   "jazyk": "Python",
-   "posledni": "2026-11-24",
-   "dni_prace": 5,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    57,
-    3,
-    54
    ],
    "barva": "modra"
   },
@@ -315,7 +315,7 @@
     28,
     38,
     361,
-    80
+    85
    ],
    "aplikace": [
     {
@@ -462,5 +462,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-27T12:17Z"
+ "aktualizovano": "2026-11-27T13:17Z"
 }
