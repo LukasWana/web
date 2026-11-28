@@ -1,6 +1,27 @@
 {
  "aktivni": [
   {
+   "nazev": "EmailRatorWana",
+   "jazyk": "Python",
+   "posledni": "2026-11-28",
+   "dni_prace": 7,
+   "tydny": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    57,
+    3,
+    65
+   ],
+   "barva": "tyrkys"
+  },
+  {
    "nazev": "EmailRator",
    "popis": "Vytěžování údajů z firemní pošty jazykovými modely, panel v Gmailu",
    "jazyk": "Python",
@@ -21,27 +42,6 @@
     191
    ],
    "barva": "fialova"
-  },
-  {
-   "nazev": "EmailRatorWana",
-   "jazyk": "Python",
-   "posledni": "2026-11-27",
-   "dni_prace": 6,
-   "tydny": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    57,
-    3,
-    64
-   ],
-   "barva": "tyrkys"
   },
   {
    "nazev": "HAsistent",
@@ -462,5 +462,5 @@
    "web": "https://sunset-apartment.com/"
   }
  ],
- "aktualizovano": "2026-11-28T10:17Z"
+ "aktualizovano": "2026-11-28T14:17Z"
 }
